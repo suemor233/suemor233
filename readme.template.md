@@ -57,10 +57,6 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 <!-- opensource_toys -->
 
-**最近写了...**
-
-<!-- recent_posts_inject -->
-
 **最近赞了...**
 
 <!-- recent_star_inject -->

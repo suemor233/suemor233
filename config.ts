@@ -1,6 +1,6 @@
 export const opensource = {
   toys: {
-    limit: 3,
+    limit: 4,
     random: true,
     repos: [
       'suemor233/search-start-page',
