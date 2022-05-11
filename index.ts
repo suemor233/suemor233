@@ -153,65 +153,65 @@ function generatePostItemHTML<T extends PostItem>(item: T) {
 async function main() {
   const template = await readFile('./readme.template.md', { encoding: 'utf-8' })
   let newContent = template
-//   // 获取活跃的开源项目详情
-//   const activeOpenSourceDetail: GRepo[] = await Promise.all(
-//     opensource.active.map((name) => {
-//       return gh.get('/repos/' + name).then((data) => data.data)
-//     }),
-//   )
-//
-//   // 获取写过的玩具开源项目详情
-//   const limit = opensource.toys.limit
-//   const toys = opensource.toys.random
-//     ? shuffle(opensource.toys.repos).slice(0, limit)
-//     : opensource.toys.repos.slice(0, limit)
-//   const toysProjectDetail: GRepo[] = await Promise.all(
-//     toys.map((name) => {
-//       return gh.get('/repos/' + name).then((data) => data.data)
-//     }),
-//   )
-//
-//   newContent = newContent
-//     .replace(
-//       gc('OPENSOURCE_DASHBOARD_ACTIVE'),
-//       generateOpenSourceSectionHtml(activeOpenSourceDetail),
-//     )
-//     .replace(gc('OPENSOURCE_TOYS'), generateToysHTML(toysProjectDetail))
-//
-//   // 获取 Star
-//   const star: any[] = await gh
-//     .get('/users/' + github.name + '/starred')
-//     .then((data) => data.data)
-//
-//   {
-//     // TOP 5
-//     const topStar5 = star
-//       .slice(0, 5)
-//       .reduce((str, cur) => str + generateRepoHTML(cur), '')
-//
-//     newContent = newContent.replace(
-//       gc('RECENT_STAR'),
-//       m`
-//     <ul>
-// ${topStar5}
-//     </ul>
-//     `,
-//     )
-//
-//     // 曾经点过的 Star
-//     const random = shuffle(star.slice(5))
-//       .slice(0, 5)
-//       .reduce((str, cur) => str + generateRepoHTML(cur), '')
-//
-//     newContent = newContent.replace(
-//       gc('RANDOM_GITHUB_STARS'),
-//       m`
-//       <ul>
-//   ${random}
-//       </ul>
-//       `,
-//     )
-//   }
+  // 获取活跃的开源项目详情
+  const activeOpenSourceDetail: GRepo[] = await Promise.all(
+    opensource.active.map((name) => {
+      return gh.get('/repos/' + name).then((data) => data.data)
+    }),
+  )
+
+  // 获取写过的玩具开源项目详情
+  const limit = opensource.toys.limit
+  const toys = opensource.toys.random
+    ? shuffle(opensource.toys.repos).slice(0, limit)
+    : opensource.toys.repos.slice(0, limit)
+  const toysProjectDetail: GRepo[] = await Promise.all(
+    toys.map((name) => {
+      return gh.get('/repos/' + name).then((data) => data.data)
+    }),
+  )
+
+  newContent = newContent
+    .replace(
+      gc('OPENSOURCE_DASHBOARD_ACTIVE'),
+      generateOpenSourceSectionHtml(activeOpenSourceDetail),
+    )
+    .replace(gc('OPENSOURCE_TOYS'), generateToysHTML(toysProjectDetail))
+
+  // 获取 Star
+  const star: any[] = await gh
+    .get('/users/' + github.name + '/starred')
+    .then((data) => data.data)
+
+  {
+    // TOP 5
+    const topStar5 = star
+      .slice(0, 5)
+      .reduce((str, cur) => str + generateRepoHTML(cur), '')
+
+    newContent = newContent.replace(
+      gc('RECENT_STAR'),
+      m`
+    <ul>
+${topStar5}
+    </ul>
+    `,
+    )
+
+    // 曾经点过的 Star
+    const random = shuffle(star.slice(5))
+      .slice(0, 5)
+      .reduce((str, cur) => str + generateRepoHTML(cur), '')
+
+    newContent = newContent.replace(
+      gc('RANDOM_GITHUB_STARS'),
+      m`
+      <ul>
+  ${random}
+      </ul>
+      `,
+    )
+  }
 
   {
     const posts = await axios
@@ -236,31 +236,31 @@ async function main() {
       `,
     )
   }
-
-  // 注入 FOOTER
-  {
-    const now = new Date()
-    const next = dayjs().add(3, 'h').toDate()
-
-    newContent = newContent.replace(
-      gc('FOOTER'),
-      m`
-    <p align="center">此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
-    </br>
-    刷新于：${now.toLocaleString(undefined, {
-      timeStyle: 'short',
-      dateStyle: 'short',
-      timeZone,
-    })}
-    <br/>
-    下一次刷新：${next.toLocaleString(undefined, {
-      timeStyle: 'short',
-      dateStyle: 'short',
-      timeZone,
-    })}</p>
-    `,
-    )
-  }
+  //
+  // // 注入 FOOTER
+  // {
+  //   const now = new Date()
+  //   const next = dayjs().add(3, 'h').toDate()
+  //
+  //   newContent = newContent.replace(
+  //     gc('FOOTER'),
+  //     m`
+  //   <p align="center">此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
+  //   </br>
+  //   刷新于：${now.toLocaleString(undefined, {
+  //     timeStyle: 'short',
+  //     dateStyle: 'short',
+  //     timeZone,
+  //   })}
+  //   <br/>
+  //   下一次刷新：${next.toLocaleString(undefined, {
+  //     timeStyle: 'short',
+  //     dateStyle: 'short',
+  //     timeZone,
+  //   })}</p>
+  //   `,
+  //   )
+  // }
 
   newContent = newContent.replace(gc('MOTTO'), motto)
   await rm('./readme.md', { force: true })
