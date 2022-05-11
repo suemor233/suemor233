@@ -213,29 +213,29 @@ ${topStar5}
     )
   }
 
-  {
-    const posts = await axios
-      .get(mxSpace.api + '/posts', {
-        params: {
-          size: 5,
-          select: '-text',
-        },
-        timeout: 10 * 1000,
-      })
-      .then((data) => data.data)
-      .then(({ data }: any) =>
-        data.reduce((s, d) => s + generatePostItemHTML(d), ''),
-      )
-
-    newContent = newContent.replace(
-      gc('RECENT_POSTS'),
-      m`
-      <ul>
-  ${posts}
-      </ul>
-      `,
-    )
-  }
+  // {
+  //   const posts = await axios
+  //     .get(mxSpace.api + '/posts', {
+  //       params: {
+  //         size: 5,
+  //         select: '-text',
+  //       },
+  //       timeout: 10 * 1000,
+  //     })
+  //     .then((data) => data.data)
+  //     .then(({ data }: any) =>
+  //       data.reduce((s, d) => s + generatePostItemHTML(d), ''),
+  //     )
+  //
+  //   newContent = newContent.replace(
+  //     gc('RECENT_POSTS'),
+  //     m`
+  //     <ul>
+  // ${posts}
+  //     </ul>
+  //     `,
+  //   )
+  // }
   //
   // // 注入 FOOTER
   // {
