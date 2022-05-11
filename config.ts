@@ -1,5 +1,10 @@
 export const opensource = {
-
+  active: [
+    'mx-space/kami',
+    'mx-space/mx-server',
+    'mx-space/mx-admin',
+    'mx-space/api-client',
+  ]
 }
 export const motto = `<p align=center><strong>お可愛いこと。</strong></p>`
 export const github = {
