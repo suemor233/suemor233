@@ -3,9 +3,7 @@ name: README build
 on:
   push:
     branches:
-      - master
-  schedule:
-    - cron: '0 */3 * * *'
+      - maste
 
 jobs:
   build:
