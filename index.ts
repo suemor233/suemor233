@@ -233,32 +233,32 @@ ${topStar5}
   //   )
   // }
   //
-  // // 注入 FOOTER
-  // {
-  //   const now = new Date()
-  //   const next = dayjs().add(3, 'h').toDate()
-  //
-  //   newContent = newContent.replace(
-  //     gc('FOOTER'),
-  //     m`
-  //   <p align="center">此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
-  //   </br>
-  //   刷新于：${now.toLocaleString(undefined, {
-  //     timeStyle: 'short',
-  //     dateStyle: 'short',
-  //     timeZone,
-  //   })}
-  //   <br/>
-  //   下一次刷新：${next.toLocaleString(undefined, {
-  //     timeStyle: 'short',
-  //     dateStyle: 'short',
-  //     timeZone,
-  //   })}</p>
-  //   `,
-  //   )
-  // }
+  // 注入 FOOTER
+  {
+    const now = new Date()
+    const next = dayjs().add(3, 'h').toDate()
 
-  newContent = newContent.replace(gc('MOTTO'), motto)
+    newContent = newContent.replace(
+      gc('FOOTER'),
+      m`
+    <p align="center">此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
+    </br>
+    刷新于：${now.toLocaleString(undefined, {
+      timeStyle: 'short',
+      dateStyle: 'short',
+      timeZone,
+    })}
+    <br/>
+    下一次刷新：${next.toLocaleString(undefined, {
+      timeStyle: 'short',
+      dateStyle: 'short',
+      timeZone,
+    })}</p>
+    `,
+    )
+  }
+
+  // newContent = newContent.replace(gc('MOTTO'), motto)
   await rm('./readme.md', { force: true })
   await writeFile('./readme.md', newContent, { encoding: 'utf-8' })
 
