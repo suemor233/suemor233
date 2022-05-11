@@ -153,12 +153,12 @@ function generatePostItemHTML<T extends PostItem>(item: T) {
 async function main() {
   const template = await readFile('./readme.template.md', { encoding: 'utf-8' })
   let newContent = template
-  // 获取活跃的开源项目详情
-  const activeOpenSourceDetail: GRepo[] = await Promise.all(
-    opensource.active.map((name) => {
-      return gh.get('/repos/' + name).then((data) => data.data)
-    }),
-  )
+  // // 获取活跃的开源项目详情
+  // const activeOpenSourceDetail: GRepo[] = await Promise.all(
+  //   opensource.active.map((name) => {
+  //     return gh.get('/repos/' + name).then((data) => data.data)
+  //   }),
+  // )
 
   // 获取写过的玩具开源项目详情
   const limit = opensource.toys.limit
@@ -171,12 +171,12 @@ async function main() {
     }),
   )
 
-  newContent = newContent
-    .replace(
-      gc('OPENSOURCE_DASHBOARD_ACTIVE'),
-      generateOpenSourceSectionHtml(activeOpenSourceDetail),
-    )
-    .replace(gc('OPENSOURCE_TOYS'), generateToysHTML(toysProjectDetail))
+  // newContent = newContent
+  //   .replace(
+  //     gc('OPENSOURCE_DASHBOARD_ACTIVE'),
+  //     generateOpenSourceSectionHtml(activeOpenSourceDetail),
+  //   )
+  //   .replace(gc('OPENSOURCE_TOYS'), generateToysHTML(toysProjectDetail))
 
   // 获取 Star
   const star: any[] = await gh
