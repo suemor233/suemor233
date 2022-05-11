@@ -171,12 +171,8 @@ async function main() {
     }),
   )
 
-  // newContent = newContent
-  //   .replace(
-  //     gc('OPENSOURCE_DASHBOARD_ACTIVE'),
-  //     generateOpenSourceSectionHtml(activeOpenSourceDetail),
-  //   )
-  //   .replace(gc('OPENSOURCE_TOYS'), generateToysHTML(toysProjectDetail))
+  newContent = newContent
+    .replace(gc('OPENSOURCE_TOYS'), generateToysHTML(toysProjectDetail))
 
   // 获取 Star
   const star: any[] = await gh
