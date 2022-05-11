@@ -55,7 +55,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/suemor233/search-start-page target=_blank><b>suemor233/search-start-page</b></a> <a href=https://search-start-page.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/search-start-page?style=flat-square&labelColor=343b41"></td><td>4/26/2022</td><td>5/8/2022</td></tr><tr><td><a href=https://github.com/suemor233/Navigation target=_blank><b>suemor233/Navigation</b></a> <a href=https://n.suemor.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/Navigation?style=flat-square&labelColor=343b41"></td><td>5/10/2022</td><td>5/11/2022</td></tr><tr><td><a href=https://github.com/suemor233/MyBlog-Admin target=_blank><b>suemor233/MyBlog-Admin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/MyBlog-Admin?style=flat-square&labelColor=343b41"></td><td>4/4/2022</td><td>5/2/2022</td></tr><tr><td><a href=https://github.com/suemor233/MyBlog-server target=_blank><b>suemor233/MyBlog-server</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/MyBlog-server?style=flat-square&labelColor=343b41"></td><td>4/12/2022</td><td>4/20/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/suemor233/search-start-page target=_blank><b>suemor233/search-start-page</b></a> <a href=https://search-start-page.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/search-start-page?style=flat-square&labelColor=343b41"></td><td>4/26/2022</td><td>5/8/2022</td></tr><tr><td><a href=https://github.com/suemor233/MyBlog-Admin target=_blank><b>suemor233/MyBlog-Admin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/MyBlog-Admin?style=flat-square&labelColor=343b41"></td><td>4/4/2022</td><td>5/2/2022</td></tr><tr><td><a href=https://github.com/suemor233/MyBlog-server target=_blank><b>suemor233/MyBlog-server</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/MyBlog-server?style=flat-square&labelColor=343b41"></td><td>4/12/2022</td><td>4/20/2022</td></tr><tr><td><a href=https://github.com/suemor233/Navigation target=_blank><b>suemor233/Navigation</b></a> <a href=https://n.suemor.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/Navigation?style=flat-square&labelColor=343b41"></td><td>5/10/2022</td><td>5/11/2022</td></tr></tbody></table>
 
 **最近赞了...**
 
@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/surmon-china/nodepress>surmon-china/nodepress</a><p>🟢 RESTful API service for https://surmon.me blog, powered by @nestjs</p></li><li><a href=https://github.com/Dreamer-Paul/Kico-Style>Dreamer-Paul/Kico-Style</a><p>🍰 一个可口的极简 CSS 前端框架</p></li><li><a href=https://github.com/MakinoharaShoko/WebGAL>MakinoharaShoko/WebGAL</a><p>全新的基于 Web 的 视觉小说引擎 | A brand new Visual Novel engine based on Web.</p></li><li><a href=https://github.com/suemor233/MyBlog-server>suemor233/MyBlog-server</a><p>⚒ 采用nestjs+typescript+typeORM+mysql编写的MyBlog后端</p></li><li><a href=https://github.com/MoOx/pjax>MoOx/pjax</a><p>Easily enable fast Ajax navigation on any website (using pushState + xhr)</p></li></ul>
+<ul><li><a href=https://github.com/surmon-china/surmon.me>surmon-china/surmon.me</a><p>My digital garden, powered by @vuejs</p></li><li><a href=https://github.com/CSSInDepth/css-in-depth>CSSInDepth/css-in-depth</a><p>Code examples from CSS In Depth</p></li><li><a href=https://github.com/HcySunYang/code-for-vue-3-book>HcySunYang/code-for-vue-3-book</a></li><li><a href=https://github.com/suemor233/MyBlog-server>suemor233/MyBlog-server</a><p>⚒ 采用nestjs+typescript+typeORM+mysql编写的MyBlog后端</p></li><li><a href=https://github.com/MoOx/pjax>MoOx/pjax</a><p>Easily enable fast Ajax navigation on any website (using pushState + xhr)</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,5 +71,5 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 ------------
 
-<p align=center><strong>お可愛いこと。</strong></p>
-<!-- footer_inject -->
+<!-- motto -->
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/11/22, 11:49 PM<br>下一次刷新：5/12/22, 2:49 AM</p>
