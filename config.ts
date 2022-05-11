@@ -1,21 +1,12 @@
 export const opensource = {
-  active: [
-    'mx-space/kami',
-    'mx-space/mx-server',
-    'mx-space/mx-admin',
-    'mx-space/api-client',
-  ],
   toys: {
     limit: 3,
     random: true,
     repos: [
-      'Innei/react-typewriter',
-      'Innei/simple-clock',
-      'Innei/shuffle-article',
-      'Innei/bump-version',
-      'Innei/candy',
-      'Innei/pageproxy',
-      'Innei/animate-uri',
+      'suemor233/search-start-page',
+      'suemor233/Navigation',
+      'suemor233/MyBlog-Admin',
+      'suemor233/MyBlog-server',
     ],
   },
 }
