@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/MyBlog-server>suemor233/MyBlog-server</a><p>⚒ 采用nestjs+typescript+typeORM+mysql编写的MyBlog后端</p></li><li><a href=https://github.com/surmon-china/surmon.me>surmon-china/surmon.me</a><p>My digital garden, powered by @vuejs</p></li><li><a href=https://github.com/reactnativecn/react-native-guide>reactnativecn/react-native-guide</a><p>React Native指南汇集了各类react-native学习资源、开源App和组件</p></li><li><a href=https://github.com/Dreamer-Paul/Kico-Style>Dreamer-Paul/Kico-Style</a><p>🍰 一个可口的极简 CSS 前端框架</p></li><li><a href=https://github.com/XboxYan/draggable-polyfill>XboxYan/draggable-polyfill</a><p>🌈a beautify polyfill for native drag!</p></li></ul>
+<ul><li><a href=https://github.com/Tencent/omi>Tencent/omi</a><p>Front End Cross-Frameworks Framework - 前端跨框架框架</p></li><li><a href=https://github.com/typestack/class-validator>typestack/class-validator</a><p>Decorator-based property validation for classes.</p></li><li><a href=https://github.com/nuxt/framework>nuxt/framework</a><p>The Hybrid Vue(3) Framework.</p></li><li><a href=https://github.com/surmon-china/nodepress>surmon-china/nodepress</a><p>🟢 RESTful API service for https://surmon.me blog, powered by @nestjs</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/14/22, 8:40 AM<br>下一次刷新：5/14/22, 11:40 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/14/22, 12:24 PM<br>下一次刷新：5/14/22, 3:24 PM</p>
