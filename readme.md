@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/getify/You-Dont-Know-JS>getify/You-Dont-Know-JS</a><p>A book series on JavaScript. @YDKJS on twitter.</p></li><li><a href=https://github.com/labring/laf>labring/laf</a><p>laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单，支持云函数/云数据库/对象存储，让前端秒变全栈，节省60%研发成本，实现0运维！</p></li><li><a href=https://github.com/Dreamer-Paul/KStart>Dreamer-Paul/KStart</a><p>☕ 一个简洁轻巧的公共起始页服务</p></li><li><a href=https://github.com/antfu/vscode-settings>antfu/vscode-settings</a><p>My VS Code settings and extensions</p></li><li><a href=https://github.com/JoeyBling/hexo-theme-yilia-plus>JoeyBling/hexo-theme-yilia-plus</a><p>一个简洁优雅的hexo主题 A simple and elegant theme for hexo.</p></li></ul>
+<ul><li><a href=https://github.com/CSSInDepth/css-in-depth>CSSInDepth/css-in-depth</a><p>Code examples from CSS In Depth</p></li><li><a href=https://github.com/MoOx/pjax>MoOx/pjax</a><p>Easily enable fast Ajax navigation on any website (using pushState + xhr)</p></li><li><a href=https://github.com/remaxjs/remax>remaxjs/remax</a><p>使用真正的 React 构建跨平台小程序</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li><li><a href=https://github.com/Dreamer-Paul/Kico-Style>Dreamer-Paul/Kico-Style</a><p>🍰 一个可口的极简 CSS 前端框架</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/3/22, 5:07 AM<br>下一次刷新：6/3/22, 8:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/3/22, 8:30 AM<br>下一次刷新：6/3/22, 11:30 AM</p>
