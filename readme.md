@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/JoeyBling/hexo-theme-yilia-plus>JoeyBling/hexo-theme-yilia-plus</a><p>一个简洁优雅的hexo主题 A simple and elegant theme for hexo.</p></li><li><a href=https://github.com/MakinoharaShoko/WebGAL>MakinoharaShoko/WebGAL</a><p>全新的基于 Web 的 视觉小说引擎 | A brand new Visual Novel engine based on Web.</p></li><li><a href=https://github.com/Innei/vue-react-wrapper>Innei/vue-react-wrapper</a><p>Use react component in vue 3 and data binding.</p></li><li><a href=https://github.com/slidevjs/slidev>slidevjs/slidev</a><p>Presentation Slides for Developers</p></li><li><a href=https://github.com/CSSInDepth/css-in-depth>CSSInDepth/css-in-depth</a><p>Code examples from CSS In Depth</p></li></ul>
+<ul><li><a href=https://github.com/zhangyuang/ssr>zhangyuang/ssr</a><p>A most advanced ssr framework support React/Vue2/Vue3 on Earth that implemented serverless-side render specification.</p></li><li><a href=https://github.com/labring/laf>labring/laf</a><p>laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单，支持云函数/云数据库/对象存储，让前端秒变全栈，节省60%研发成本，实现0运维！</p></li><li><a href=https://github.com/xiaolai/everyone-can-use-english>xiaolai/everyone-can-use-english</a><p>人人都能用英语</p></li><li><a href=https://github.com/zzanehip/The-OldOS-Project>zzanehip/The-OldOS-Project</a><p>Recreating a fully functional version of iOS 4 in SwiftUI.</p></li><li><a href=https://github.com/MoOx/pjax>MoOx/pjax</a><p>Easily enable fast Ajax navigation on any website (using pushState + xhr)</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/5/22, 5:07 AM<br>下一次刷新：6/5/22, 8:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/5/22, 8:39 AM<br>下一次刷新：6/5/22, 11:39 AM</p>
