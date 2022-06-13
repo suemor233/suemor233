@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/remaxjs/remax>remaxjs/remax</a><p>使用真正的 React 构建跨平台小程序</p></li><li><a href=https://github.com/zhangyuang/ssr>zhangyuang/ssr</a><p>A most advanced ssr framework support React/Vue2/Vue3 on Earth that implemented serverless-side render specification.</p></li><li><a href=https://github.com/JoeyBling/hexo-theme-yilia-plus>JoeyBling/hexo-theme-yilia-plus</a><p>一个简洁优雅的hexo主题 A simple and elegant theme for hexo.</p></li><li><a href=https://github.com/nuxt/content>nuxt/content</a><p>The file-based CMS for your Nuxt application, powered by Markdown and Vue components.</p></li><li><a href=https://github.com/suemor233/Navigation-legacy>suemor233/Navigation-legacy</a><p>🍰 采用Vue3+TSX编写的引导页</p></li></ul>
+<ul><li><a href=https://github.com/suemor233/search-start-page>suemor233/search-start-page</a><p>🔍 一个简单的搜索起始页</p></li><li><a href=https://github.com/Dreamer-Paul/Kico-Style>Dreamer-Paul/Kico-Style</a><p>🍰 一个可口的极简 CSS 前端框架</p></li><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li><li><a href=https://github.com/MichealWayne/books>MichealWayne/books</a><p>一些前端/设计相关的书籍（电子书）</p></li><li><a href=https://github.com/Dreamer-Paul/KStart>Dreamer-Paul/KStart</a><p>☕ 一个简洁轻巧的公共起始页服务</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/13/22, 11:50 AM<br>下一次刷新：6/13/22, 2:50 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/13/22, 2:10 PM<br>下一次刷新：6/13/22, 5:10 PM</p>
