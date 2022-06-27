@@ -5,8 +5,8 @@ export const opensource = {
     repos: [
       'suemor233/search-start-page',
       'suemor233/Navigation',
-      'suemor233/MyBlog-Admin',
-      'suemor233/MyBlog-server',
+      'suemor233/navigation-admin',
+      'suemor233/navigation-server',
     ],
   },
 }
