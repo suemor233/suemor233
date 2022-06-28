@@ -11,8 +11,8 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=popout">
     <img alt="TypeScript"src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="TailwindCSS"src="https://img.shields.io/badge/-Tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
 
@@ -41,7 +41,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/-WebStorm-007ACC?style=flat-square&logo=WebStorm&logoColor=white" />
+  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
 <!-- <p align="center">
@@ -55,7 +55,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/suemor233/Navigation target=_blank><b>suemor233/Navigation</b></a> <a href=https://n.suemor.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/Navigation?style=flat-square&labelColor=343b41"></td><td>5/26/2022</td><td>6/27/2022</td></tr><tr><td><a href=https://github.com/suemor233/search-start-page target=_blank><b>suemor233/search-start-page</b></a> <a href=https://search.suemor.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/search-start-page?style=flat-square&labelColor=343b41"></td><td>4/26/2022</td><td>6/4/2022</td></tr><tr><td><a href=https://github.com/suemor233/navigation-admin target=_blank><b>suemor233/navigation-admin</b></a> <a href=https://admin.suemor.com/#/login target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation-admin?style=flat-square&labelColor=343b41"></td><td>6/2/2022</td><td>6/27/2022</td></tr><tr><td><a href=https://github.com/suemor233/navigation-server target=_blank><b>suemor233/navigation-server</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation-server?style=flat-square&labelColor=343b41"></td><td>6/4/2022</td><td>6/27/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/suemor233/search-start-page target=_blank><b>suemor233/search-start-page</b></a> <a href=https://search.suemor.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/search-start-page?style=flat-square&labelColor=343b41"></td><td>4/26/2022</td><td>6/4/2022</td></tr><tr><td><a href=https://github.com/suemor233/navigation-server target=_blank><b>suemor233/navigation-server</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation-server?style=flat-square&labelColor=343b41"></td><td>6/4/2022</td><td>6/27/2022</td></tr><tr><td><a href=https://github.com/suemor233/navigation-admin target=_blank><b>suemor233/navigation-admin</b></a> <a href=https://admin.suemor.com/#/login target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation-admin?style=flat-square&labelColor=343b41"></td><td>6/2/2022</td><td>6/27/2022</td></tr><tr><td><a href=https://github.com/suemor233/Navigation target=_blank><b>suemor233/Navigation</b></a> <a href=https://n.suemor.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/Navigation?style=flat-square&labelColor=343b41"></td><td>5/26/2022</td><td>6/27/2022</td></tr></tbody></table>
 
 **最近赞了...**
 
@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/prisma/prisma>prisma/prisma</a><p>Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</p></li><li><a href=https://github.com/FortAwesome/Font-Awesome>FortAwesome/Font-Awesome</a><p>The iconic SVG, font, and CSS toolkit</p></li><li><a href=https://github.com/mobxjs/mobx>mobxjs/mobx</a><p>Simple, scalable state management.</p></li><li><a href=https://github.com/remaxjs/remax>remaxjs/remax</a><p>使用真正的 React 构建跨平台小程序</p></li><li><a href=https://github.com/ajmnz/prisma-exclude>ajmnz/prisma-exclude</a><p>Exclude fields from your Prisma queries</p></li></ul>
+<ul><li><a href=https://github.com/jgthms/bulma>jgthms/bulma</a><p>Modern CSS framework based on Flexbox</p></li><li><a href=https://github.com/slidevjs/slidev>slidevjs/slidev</a><p>Presentation Slides for Developers</p></li><li><a href=https://github.com/xiaolai/everyone-can-use-english>xiaolai/everyone-can-use-english</a><p>人人都能用英语</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li><li><a href=https://github.com/Innei/candy>Innei/candy</a><p>Simple and cute static blog generator.</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/28/22, 5:05 AM<br>下一次刷新：6/28/22, 8:05 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/28/22, 8:28 AM<br>下一次刷新：6/28/22, 11:28 AM</p>
