@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/Navigation-legacy>suemor233/Navigation-legacy</a><p>🍰 采用Vue3+TSX编写的引导页</p></li><li><a href=https://github.com/livebud/bud>livebud/bud</a><p>The Full-Stack Web Framework for Go</p></li><li><a href=https://github.com/sideway/joi>sideway/joi</a><p>The most powerful data validation library for JS</p></li><li><a href=https://github.com/XboxYan/draggable-polyfill>XboxYan/draggable-polyfill</a><p>🌈a beautify polyfill for native drag!</p></li><li><a href=https://github.com/Innei/vue-react-wrapper>Innei/vue-react-wrapper</a><p>Use react component in vue 3 and data binding.</p></li></ul>
+<ul><li><a href=https://github.com/slidevjs/slidev>slidevjs/slidev</a><p>Presentation Slides for Developers</p></li><li><a href=https://github.com/XboxYan/draggable-polyfill>XboxYan/draggable-polyfill</a><p>🌈a beautify polyfill for native drag!</p></li><li><a href=https://github.com/zhangyuang/ssr>zhangyuang/ssr</a><p>A most advanced ssr framework support React/Vue2/Vue3 on Earth that implemented serverless-side render specification.</p></li><li><a href=https://github.com/antfu/vscode-settings>antfu/vscode-settings</a><p>My VS Code settings and extensions</p></li><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/30/22, 2:08 PM<br>下一次刷新：6/30/22, 5:08 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/30/22, 5:06 PM<br>下一次刷新：6/30/22, 8:06 PM</p>
