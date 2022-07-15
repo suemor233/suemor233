@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/slidevjs/slidev>slidevjs/slidev</a><p>Presentation Slides for Developers</p></li><li><a href=https://github.com/antfu/vscode-settings>antfu/vscode-settings</a><p>My VS Code settings and extensions</p></li><li><a href=https://github.com/DevCloudFE/vue-devui>DevCloudFE/vue-devui</a><p>UI components based on Vue3 and DevUI Design</p></li><li><a href=https://github.com/MichealWayne/books>MichealWayne/books</a><p>一些前端/设计相关的书籍（电子书）</p></li><li><a href=https://github.com/suemor233/navigation-admin>suemor233/navigation-admin</a><p>🥳 navigation 后台管理系统</p></li></ul>
+<ul><li><a href=https://github.com/jgthms/bulma>jgthms/bulma</a><p>Modern CSS framework based on Flexbox</p></li><li><a href=https://github.com/prisma/prisma>prisma/prisma</a><p>Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</p></li><li><a href=https://github.com/suemor233/navigation-admin>suemor233/navigation-admin</a><p>🥳 navigation 后台管理系统</p></li><li><a href=https://github.com/DevCloudFE/vue-devui>DevCloudFE/vue-devui</a><p>UI components based on Vue3 and DevUI Design</p></li><li><a href=https://github.com/xiaolai/everyone-can-use-english>xiaolai/everyone-can-use-english</a><p>人人都能用英语</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/15/22, 11:07 PM<br>下一次刷新：7/16/22, 2:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/16/22, 2:08 AM<br>下一次刷新：7/16/22, 5:08 AM</p>
