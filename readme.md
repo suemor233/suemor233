@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/navigation-server>suemor233/navigation-server</a><p>Navigation 后端是用 nestjs 编写，数据库上借助 prisima 初次使用了 mongodb ，缓存采用了 redis，还使用了 Socket.IO 做到前后端实时通讯。</p></li><li><a href=https://github.com/jgthms/bulma>jgthms/bulma</a><p>Modern CSS framework based on Flexbox</p></li><li><a href=https://github.com/JoeyBling/hexo-theme-yilia-plus>JoeyBling/hexo-theme-yilia-plus</a><p>一个简洁优雅的hexo主题 A simple and elegant theme for hexo.</p></li><li><a href=https://github.com/Innei/candy>Innei/candy</a><p>Simple and cute static blog generator.</p></li><li><a href=https://github.com/nuxt/content>nuxt/content</a><p>The file-based CMS for your Nuxt application, powered by Markdown and Vue components.</p></li></ul>
+<ul><li><a href=https://github.com/xiaolai/everyone-can-use-english>xiaolai/everyone-can-use-english</a><p>人人都能用英语</p></li><li><a href=https://github.com/antfu/vscode-settings>antfu/vscode-settings</a><p>My VS Code settings and extensions</p></li><li><a href=https://github.com/FortAwesome/Font-Awesome>FortAwesome/Font-Awesome</a><p>The iconic SVG, font, and CSS toolkit</p></li><li><a href=https://github.com/suemor233/Navigation>suemor233/Navigation</a><p>🍰 可爱的引导页</p></li><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/22, 11:05 PM<br>下一次刷新：7/18/22, 2:05 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/18/22, 2:07 AM<br>下一次刷新：7/18/22, 5:07 AM</p>
