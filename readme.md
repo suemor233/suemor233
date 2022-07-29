@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/candy>Innei/candy</a><p>Simple and cute static blog generator.</p></li><li><a href=https://github.com/nuxt/content>nuxt/content</a><p>The file-based CMS for your Nuxt application, powered by Markdown and Vue components.</p></li><li><a href=https://github.com/electron/electron>electron/electron</a><p>:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS</p></li><li><a href=https://github.com/antfu/unplugin-auto-import>antfu/unplugin-auto-import</a><p>Auto import APIs on-demand for Vite, Webpack and Rollup</p></li><li><a href=https://github.com/prisma/prisma>prisma/prisma</a><p>Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</p></li></ul>
+<ul><li><a href=https://github.com/MichealWayne/books>MichealWayne/books</a><p>一些前端/设计相关的书籍（电子书）</p></li><li><a href=https://github.com/JoeyBling/hexo-theme-yilia-plus>JoeyBling/hexo-theme-yilia-plus</a><p>一个简洁优雅的hexo主题 A simple and elegant theme for hexo.</p></li><li><a href=https://github.com/remaxjs/remax>remaxjs/remax</a><p>使用真正的 React 构建跨平台小程序</p></li><li><a href=https://github.com/antfu/vscode-settings>antfu/vscode-settings</a><p>My VS Code settings and extensions</p></li><li><a href=https://github.com/slidevjs/slidev>slidevjs/slidev</a><p>Presentation Slides for Developers</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/29/22, 12:01 PM<br>下一次刷新：7/29/22, 3:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/29/22, 2:09 PM<br>下一次刷新：7/29/22, 5:09 PM</p>
