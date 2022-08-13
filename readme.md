@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/Navigation>suemor233/Navigation</a><p>🍰 可爱的引导页</p></li><li><a href=https://github.com/nuxt/content>nuxt/content</a><p>The file-based CMS for your Nuxt application, powered by Markdown and Vue components.</p></li><li><a href=https://github.com/FortAwesome/Font-Awesome>FortAwesome/Font-Awesome</a><p>The iconic SVG, font, and CSS toolkit</p></li><li><a href=https://github.com/JoeyBling/hexo-theme-yilia-plus>JoeyBling/hexo-theme-yilia-plus</a><p>一个简洁优雅的hexo主题 A simple and elegant theme for hexo.</p></li><li><a href=https://github.com/sideway/joi>sideway/joi</a><p>The most powerful data validation library for JS</p></li></ul>
+<ul><li><a href=https://github.com/suemor233/navigation-admin>suemor233/navigation-admin</a><p>🥳 navigation 后台管理系统</p></li><li><a href=https://github.com/JoeyBling/hexo-theme-yilia-plus>JoeyBling/hexo-theme-yilia-plus</a><p>一个简洁优雅的hexo主题 A simple and elegant theme for hexo.</p></li><li><a href=https://github.com/jgthms/bulma>jgthms/bulma</a><p>Modern CSS framework based on Flexbox</p></li><li><a href=https://github.com/yui540/Cowardly-Witch>yui540/Cowardly-Witch</a><p>『臆病な魔女は、Webサイトに魔法をかけた。』</p></li><li><a href=https://github.com/livebud/bud>livebud/bud</a><p>The Full-Stack Web Framework for Go</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/13/22, 8:11 PM<br>下一次刷新：8/13/22, 11:11 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/13/22, 11:06 PM<br>下一次刷新：8/14/22, 2:06 AM</p>
