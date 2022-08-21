@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/navigation-admin>suemor233/navigation-admin</a><p>🥳 navigation 后台管理系统</p></li><li><a href=https://github.com/hapijs/joi>hapijs/joi</a><p>The most powerful data validation library for JS</p></li><li><a href=https://github.com/livebud/bud>livebud/bud</a><p>The Full-Stack Web Framework for Go</p></li><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/mobxjs/mobx>mobxjs/mobx</a><p>Simple, scalable state management.</p></li></ul>
+<ul><li><a href=https://github.com/FortAwesome/Font-Awesome>FortAwesome/Font-Awesome</a><p>The iconic SVG, font, and CSS toolkit</p></li><li><a href=https://github.com/MichealWayne/books>MichealWayne/books</a><p>一些前端/设计相关的书籍（电子书）</p></li><li><a href=https://github.com/pcdotfan/taro-plugin-tailwind>pcdotfan/taro-plugin-tailwind</a><p>Taro 接入 windicss / tailwindcss 插件</p></li><li><a href=https://github.com/remaxjs/remax>remaxjs/remax</a><p>使用真正的 React 构建跨平台小程序</p></li><li><a href=https://github.com/jgthms/bulma>jgthms/bulma</a><p>Modern CSS framework based on Flexbox</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/21/22, 8:36 AM<br>下一次刷新：8/21/22, 11:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/21/22, 11:53 AM<br>下一次刷新：8/21/22, 2:53 PM</p>
