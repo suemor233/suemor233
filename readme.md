@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SocialSisterYi/bilibili-API-collect>SocialSisterYi/bilibili-API-collect</a><p>哔哩哔哩-API收集整理【不断更新中....】</p></li><li><a href=https://github.com/remaxjs/remax>remaxjs/remax</a><p>使用真正的 React 构建跨平台小程序</p></li><li><a href=https://github.com/pcdotfan/taro-plugin-tailwind>pcdotfan/taro-plugin-tailwind</a><p>Taro 接入 windicss / tailwindcss 插件</p></li><li><a href=https://github.com/nuxt/content>nuxt/content</a><p>The file-based CMS for your Nuxt application, powered by Markdown and Vue components.</p></li><li><a href=https://github.com/suemor233/navigation-admin>suemor233/navigation-admin</a><p>🥳 navigation 后台管理系统</p></li></ul>
+<ul><li><a href=https://github.com/ajmnz/prisma-exclude>ajmnz/prisma-exclude</a><p>Exclude fields from your Prisma queries</p></li><li><a href=https://github.com/MichealWayne/books>MichealWayne/books</a><p>一些前端/设计相关的书籍（电子书）</p></li><li><a href=https://github.com/FortAwesome/Font-Awesome>FortAwesome/Font-Awesome</a><p>The iconic SVG, font, and CSS toolkit</p></li><li><a href=https://github.com/SocialSisterYi/bilibili-API-collect>SocialSisterYi/bilibili-API-collect</a><p>哔哩哔哩-API收集整理【不断更新中....】</p></li><li><a href=https://github.com/livebud/bud>livebud/bud</a><p>The Full-Stack Web Framework for Go</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/22/22, 5:07 PM<br>下一次刷新：8/22/22, 8:07 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/22/22, 8:14 PM<br>下一次刷新：8/22/22, 11:14 PM</p>
