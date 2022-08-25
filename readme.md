@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/navigation-admin>suemor233/navigation-admin</a><p>🥳 navigation 后台管理系统</p></li><li><a href=https://github.com/jsun969/react-hook-dialog>jsun969/react-hook-dialog</a><p>💬 React hooks for master your dialog(modal) component</p></li><li><a href=https://github.com/DevCloudFE/vue-devui>DevCloudFE/vue-devui</a><p>UI components based on Vue3 and DevUI Design</p></li><li><a href=https://github.com/livebud/bud>livebud/bud</a><p>The Full-Stack Web Framework for Go</p></li><li><a href=https://github.com/antfu/unplugin-auto-import>antfu/unplugin-auto-import</a><p>Auto import APIs on-demand for Vite, Webpack and Rollup</p></li></ul>
+<ul><li><a href=https://github.com/livebud/bud>livebud/bud</a><p>The Full-Stack Web Framework for Go</p></li><li><a href=https://github.com/suemor233/navigation-admin>suemor233/navigation-admin</a><p>🥳 navigation 后台管理系统</p></li><li><a href=https://github.com/suemor233/navigation-server>suemor233/navigation-server</a><p>Navigation 后端是用 nestjs 编写，数据库上借助 prisima 初次使用了 mongodb ，缓存采用了 redis，还使用了 Socket.IO 做到前后端实时通讯。</p></li><li><a href=https://github.com/nuxt/content>nuxt/content</a><p>The file-based CMS for your Nuxt application, powered by Markdown and Vue components.</p></li><li><a href=https://github.com/NervJS/taro>NervJS/taro</a><p>开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 https://taro.zone/</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/25/22, 2:21 PM<br>下一次刷新：8/25/22, 5:21 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/25/22, 5:07 PM<br>下一次刷新：8/25/22, 8:07 PM</p>
