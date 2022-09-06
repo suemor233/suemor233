@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/yui540/Cowardly-Witch>yui540/Cowardly-Witch</a><p>『臆病な魔女は、Webサイトに魔法をかけた。』</p></li><li><a href=https://github.com/prisma/prisma>prisma/prisma</a><p>Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</p></li><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/jgthms/bulma>jgthms/bulma</a><p>Modern CSS framework based on Flexbox</p></li><li><a href=https://github.com/suemor233/nest-template>suemor233/nest-template</a><p>nestjs 模板</p></li></ul>
+<ul><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/prisma/prisma>prisma/prisma</a><p>Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</p></li><li><a href=https://github.com/pcdotfan/taro-plugin-tailwind>pcdotfan/taro-plugin-tailwind</a><p>Taro 接入 windicss / tailwindcss 插件</p></li><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/hapijs/joi>hapijs/joi</a><p>The most powerful data validation library for JS</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/6/22, 11:07 PM<br>下一次刷新：9/7/22, 2:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/7/22, 2:08 AM<br>下一次刷新：9/7/22, 5:08 AM</p>
