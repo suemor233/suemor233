@@ -59,11 +59,11 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/BrowserSync/browser-sync>BrowserSync/browser-sync</a><p>Keep multiple browsers & devices in sync when building websites. http://browsersync.io</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Bleeding-edge React framework powered by Vite</p></li><li><a href=https://github.com/mallfoundry/taroify>mallfoundry/taroify</a><p>Taroify 是移动端组件库 Vant 的 Taro 版本，两者基于相同的视觉规范，提供一致的 API 接口，助力开发者快速搭建小程序应用。</p></li><li><a href=https://github.com/suemor233/navigation>suemor233/navigation</a><p>🍰 可爱的引导页</p></li><li><a href=https://github.com/fz6m/weixin-fe>fz6m/weixin-fe</a><p>2022 年前端圈微信公众号合集</p></li></ul>
+<ul><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a><p>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</p></li><li><a href=https://github.com/NekoChanTaiwan/neko-blog>NekoChanTaiwan/neko-blog</a><p>Neko Blog ( WIP )</p></li><li><a href=https://github.com/BrowserSync/browser-sync>BrowserSync/browser-sync</a><p>Keep multiple browsers & devices in sync when building websites. http://browsersync.io</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Bleeding-edge React framework powered by Vite</p></li><li><a href=https://github.com/mallfoundry/taroify>mallfoundry/taroify</a><p>Taroify 是移动端组件库 Vant 的 Taro 版本，两者基于相同的视觉规范，提供一致的 API 接口，助力开发者快速搭建小程序应用。</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/prisma/prisma>prisma/prisma</a><p>Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</p></li><li><a href=https://github.com/MichealWayne/books>MichealWayne/books</a><p>一些前端/设计相关的书籍（电子书）</p></li><li><a href=https://github.com/yui540/Cowardly-Witch>yui540/Cowardly-Witch</a><p>『臆病な魔女は、Webサイトに魔法をかけた。』</p></li><li><a href=https://github.com/pcdotfan/taro-plugin-tailwind>pcdotfan/taro-plugin-tailwind</a><p>Taro 接入 windicss / tailwindcss 插件</p></li><li><a href=https://github.com/suemor233/navigation-admin>suemor233/navigation-admin</a><p>🥳 navigation 后台管理系统</p></li></ul>
+<ul><li><a href=https://github.com/prisma/prisma>prisma/prisma</a><p>Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/antfu/unplugin-auto-import>antfu/unplugin-auto-import</a><p>Auto import APIs on-demand for Vite, Webpack and Rollup</p></li><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高�
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/10/22, 5:07 PM<br>下一次刷新：9/10/22, 8:07 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/10/22, 8:13 PM<br>下一次刷新：9/10/22, 11:13 PM</p>
