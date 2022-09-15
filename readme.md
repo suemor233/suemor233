@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/navigation>suemor233/navigation</a><p>🍰 可爱的引导页</p></li><li><a href=https://github.com/Innei/candy>Innei/candy</a><p>Simple and cute static blog generator.</p></li><li><a href=https://github.com/prisma/prisma>prisma/prisma</a><p>Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</p></li><li><a href=https://github.com/antfu/unplugin-auto-import>antfu/unplugin-auto-import</a><p>Auto import APIs on-demand for Vite, Webpack and Rollup</p></li><li><a href=https://github.com/suemor233/navigation-server>suemor233/navigation-server</a><p>Navigation 后端是用 nestjs 编写，数据库上借助 prisima 初次使用了 mongodb ，缓存采用了 redis，还使用了 Socket.IO 做到前后端实时通讯。</p></li></ul>
+<ul><li><a href=https://github.com/antfu/unplugin-auto-import>antfu/unplugin-auto-import</a><p>Auto import APIs on-demand for Vite, Webpack and Rollup</p></li><li><a href=https://github.com/BrowserSync/browser-sync>BrowserSync/browser-sync</a><p>Keep multiple browsers & devices in sync when building websites. http://browsersync.io</p></li><li><a href=https://github.com/suemor233/navigation-admin>suemor233/navigation-admin</a><p>🥳 navigation 后台管理系统</p></li><li><a href=https://github.com/DevCloudFE/vue-devui>DevCloudFE/vue-devui</a><p>UI components based on Vue3 and DevUI Design</p></li><li><a href=https://github.com/jsun969/react-hook-dialog>jsun969/react-hook-dialog</a><p>💬 React hooks for master your dialog(modal) component</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/15/22, 11:07 PM<br>下一次刷新：9/16/22, 2:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/16/22, 2:09 AM<br>下一次刷新：9/16/22, 5:09 AM</p>
