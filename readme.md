@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SocialSisterYi/bilibili-API-collect>SocialSisterYi/bilibili-API-collect</a><p>哔哩哔哩-API收集整理【不断更新中....】</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Bleeding-edge React framework powered by Vite</p></li><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/jsun969/react-hook-dialog>jsun969/react-hook-dialog</a><p>💬 React hooks for master your dialog(modal) component</p></li><li><a href=https://github.com/antfu/unplugin-auto-import>antfu/unplugin-auto-import</a><p>Auto import APIs on-demand for Vite, Webpack and Rollup</p></li></ul>
+<ul><li><a href=https://github.com/ajmnz/prisma-exclude>ajmnz/prisma-exclude</a><p>Exclude fields from your Prisma queries</p></li><li><a href=https://github.com/Innei/candy>Innei/candy</a><p>Simple and cute static blog generator.</p></li><li><a href=https://github.com/suemor233/nest-template>suemor233/nest-template</a><p>nestjs 模板</p></li><li><a href=https://github.com/NervJS/taro>NervJS/taro</a><p>开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 https://taro.zone/</p></li><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/25/22, 5:07 AM<br>下一次刷新：9/25/22, 8:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/25/22, 8:41 AM<br>下一次刷新：9/25/22, 11:41 AM</p>
