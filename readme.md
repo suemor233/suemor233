@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a><p>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</p></li><li><a href=https://github.com/jsun969/react-hook-dialog>jsun969/react-hook-dialog</a><p>💬 React hooks for master your dialog(modal) component</p></li><li><a href=https://github.com/Innei/candy>Innei/candy</a><p>Simple and cute static blog generator.</p></li><li><a href=https://github.com/yui540/Cowardly-Witch>yui540/Cowardly-Witch</a><p>『臆病な魔女は、Webサイトに魔法をかけた。』</p></li></ul>
+<ul><li><a href=https://github.com/suemor233/navigation>suemor233/navigation</a><p>🍰 可爱的引导页</p></li><li><a href=https://github.com/goodjack/developer-roadmap-chinese>goodjack/developer-roadmap-chinese</a><p>2021 年成為 Web 開發人員的路線圖 台灣正體中文版</p></li><li><a href=https://github.com/suemor233/navigation-server>suemor233/navigation-server</a><p>Navigation 后端是用 nestjs 编写，数据库上借助 prisima 初次使用了 mongodb ，缓存采用了 redis，还使用了 Socket.IO 做到前后端实时通讯。</p></li><li><a href=https://github.com/electron/electron>electron/electron</a><p>:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Bleeding-edge React framework powered by Vite</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/2/22, 8:53 AM<br>下一次刷新：10/2/22, 11:53 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/2/22, 12:27 PM<br>下一次刷新：10/2/22, 3:27 PM</p>
