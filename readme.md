@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SocialSisterYi/bilibili-API-collect>SocialSisterYi/bilibili-API-collect</a><p>哔哩哔哩-API收集整理【不断更新中....】</p></li><li><a href=https://github.com/fz6m/weixin-fe>fz6m/weixin-fe</a><p>2022 年前端圈微信公众号合集</p></li><li><a href=https://github.com/suemor233/navigation-admin>suemor233/navigation-admin</a><p>🥳 navigation 后台管理系统</p></li><li><a href=https://github.com/NervJS/taro>NervJS/taro</a><p>开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 https://taro.zone/</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li></ul>
+<ul><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/mallfoundry/taroify>mallfoundry/taroify</a><p>Taroify 是移动端组件库 Vant 的 Taro 版本，两者基于相同的视觉规范，提供一致的 API 接口，助力开发者快速搭建小程序应用。</p></li><li><a href=https://github.com/electron/electron>electron/electron</a><p>:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS</p></li><li><a href=https://github.com/suemor233/navigation>suemor233/navigation</a><p>🍰 可爱的引导页</p></li><li><a href=https://github.com/fz6m/weixin-fe>fz6m/weixin-fe</a><p>2022 年前端圈微信公众号合集</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/16/22, 11:08 PM<br>下一次刷新：10/17/22, 2:08 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/17/22, 2:09 AM<br>下一次刷新：10/17/22, 5:09 AM</p>
