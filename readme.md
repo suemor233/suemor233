@@ -59,11 +59,11 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/solidjs/solid>solidjs/solid</a><p>A declarative, efficient, and flexible JavaScript library for building user interfaces.</p></li><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a><p>加功德</p></li><li><a href=https://github.com/twitter/twemoji>twitter/twemoji</a><p>Emoji for everyone. https://twemoji.twitter.com/</p></li><li><a href=https://github.com/sudongyuer/react-patterns>sudongyuer/react-patterns</a><p>☄️ React相关der设计模式 (翻译)</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li></ul>
+<ul><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a><p>An open source application built using the new router, server components and everything new in Next.js 13.</p></li><li><a href=https://github.com/solidjs/solid>solidjs/solid</a><p>A declarative, efficient, and flexible JavaScript library for building user interfaces.</p></li><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a><p>加功德</p></li><li><a href=https://github.com/twitter/twemoji>twitter/twemoji</a><p>Emoji for everyone. https://twemoji.twitter.com/</p></li><li><a href=https://github.com/sudongyuer/react-patterns>sudongyuer/react-patterns</a><p>☄️ React相关der设计模式 (翻译)</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/plouc/nivo>plouc/nivo</a><p>nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries</p></li><li><a href=https://github.com/matteobruni/tsparticles>matteobruni/tsparticles</a><p>tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.</p></li><li><a href=https://github.com/yui540/Cowardly-Witch>yui540/Cowardly-Witch</a><p>『臆病な魔女は、Webサイトに魔法をかけた。』</p></li><li><a href=https://github.com/mallfoundry/taroify>mallfoundry/taroify</a><p>Taroify 是移动端组件库 Vant 的 Taro 版本，两者基于相同的视觉规范，提供一致的 API 接口，助力开发者快速搭建小程序应用。</p></li><li><a href=https://github.com/NekoChanTaiwan/neko-blog>NekoChanTaiwan/neko-blog</a><p>Neko Blog ( WIP )</p></li></ul>
+<ul><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a><p>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</p></li><li><a href=https://github.com/DevCloudFE/vue-devui>DevCloudFE/vue-devui</a><p>UI components based on Vue3 and DevUI Design</p></li><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/26/22, 11:08 PM<br>下一次刷新：10/27/22, 2:08 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/22, 2:10 AM<br>下一次刷新：10/27/22, 5:10 AM</p>
