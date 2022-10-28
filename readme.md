@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/navigation>suemor233/navigation</a><p>🍰 可爱的引导页</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Bleeding-edge React framework powered by Vite</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li></ul>
+<ul><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/plouc/nivo>plouc/nivo</a><p>nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries</p></li><li><a href=https://github.com/mallfoundry/taroify>mallfoundry/taroify</a><p>Taroify 是移动端组件库 Vant 的 Taro 版本，两者基于相同的视觉规范，提供一致的 API 接口，助力开发者快速搭建小程序应用。</p></li><li><a href=https://github.com/suemor233/nest-template>suemor233/nest-template</a><p>nestjs 模板</p></li><li><a href=https://github.com/pcdotfan/taro-plugin-tailwind>pcdotfan/taro-plugin-tailwind</a><p>Taro 接入 windicss / tailwindcss 插件</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/28/22, 5:11 PM<br>下一次刷新：10/28/22, 8:11 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/28/22, 8:17 PM<br>下一次刷新：10/28/22, 11:17 PM</p>
