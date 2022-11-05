@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a><p>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</p></li><li><a href=https://github.com/BrowserSync/browser-sync>BrowserSync/browser-sync</a><p>Keep multiple browsers & devices in sync when building websites. http://browsersync.io</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Bleeding-edge React framework powered by Vite</p></li></ul>
+<ul><li><a href=https://github.com/hashicorp/next-mdx-remote>hashicorp/next-mdx-remote</a><p>Load mdx content from anywhere through getStaticProps in next.js</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li><li><a href=https://github.com/NekoChanTaiwan/neko-blog>NekoChanTaiwan/neko-blog</a><p>Neko Blog ( WIP )</p></li><li><a href=https://github.com/goodjack/developer-roadmap-chinese>goodjack/developer-roadmap-chinese</a><p>2021 年成為 Web 開發人員的路線圖 台灣正體中文版</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/5/22, 5:06 AM<br>下一次刷新：11/5/22, 8:06 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/5/22, 8:43 AM<br>下一次刷新：11/5/22, 11:43 AM</p>
