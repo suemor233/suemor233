@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jsun969/react-hook-dialog>jsun969/react-hook-dialog</a><p>💬 React hooks for master your dialog(modal) component</p></li><li><a href=https://github.com/NervJS/taro>NervJS/taro</a><p>开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 https://taro.zone/</p></li><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a><p>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</p></li><li><a href=https://github.com/solidjs/solid>solidjs/solid</a><p>A declarative, efficient, and flexible JavaScript library for building user interfaces.</p></li><li><a href=https://github.com/matteobruni/tsparticles>matteobruni/tsparticles</a><p>tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.</p></li></ul>
+<ul><li><a href=https://github.com/sudongyuer/react-patterns>sudongyuer/react-patterns</a><p>☄️ React相关der设计模式 (翻译)</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/plouc/nivo>plouc/nivo</a><p>nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries</p></li><li><a href=https://github.com/twitter/twemoji>twitter/twemoji</a><p>Emoji for everyone. https://twemoji.twitter.com/</p></li><li><a href=https://github.com/pcdotfan/taro-plugin-tailwind>pcdotfan/taro-plugin-tailwind</a><p>Taro 接入 windicss / tailwindcss 插件</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/10/22, 11:49 AM<br>下一次刷新：11/10/22, 2:49 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/10/22, 2:10 PM<br>下一次刷新：11/10/22, 5:10 PM</p>
