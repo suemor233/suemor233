@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/nest-template>suemor233/nest-template</a><p>nestjs 模板</p></li><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Bleeding-edge React framework powered by Vite</p></li><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a><p>加功德</p></li><li><a href=https://github.com/NekoChanTaiwan/neko-blog>NekoChanTaiwan/neko-blog</a><p>Neko Blog ( WIP )</p></li></ul>
+<ul><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a><p>加功德</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Bleeding-edge React framework powered by Vite</p></li><li><a href=https://github.com/matteobruni/tsparticles>matteobruni/tsparticles</a><p>tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.</p></li><li><a href=https://github.com/goodjack/developer-roadmap-chinese>goodjack/developer-roadmap-chinese</a><p>2021 年成為 Web 開發人員的路線圖 台灣正體中文版</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/12/22, 11:46 AM<br>下一次刷新：11/12/22, 2:46 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/12/22, 2:09 PM<br>下一次刷新：11/12/22, 5:09 PM</p>
