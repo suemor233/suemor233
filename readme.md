@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/goodjack/developer-roadmap-chinese>goodjack/developer-roadmap-chinese</a><p>2021 年成為 Web 開發人員的路線圖 台灣正體中文版</p></li><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a><p>An open source application built using the new router, server components and everything new in Next.js 13.</p></li><li><a href=https://github.com/hashicorp/next-mdx-remote>hashicorp/next-mdx-remote</a><p>Load mdx content from anywhere through getStaticProps in next.js</p></li><li><a href=https://github.com/NekoChanTaiwan/astro-blog>NekoChanTaiwan/astro-blog</a><p>This project still work in progress.</p></li><li><a href=https://github.com/michalsnik/aos>michalsnik/aos</a><p>Animate on scroll library</p></li></ul>
+<ul><li><a href=https://github.com/sudongyuer/react-patterns>sudongyuer/react-patterns</a><p>☄️ React相关der设计模式 (翻译)</p></li><li><a href=https://github.com/NekoChanTaiwan/neko-blog>NekoChanTaiwan/neko-blog</a><p>Neko Blog ( WIP )</p></li><li><a href=https://github.com/goodjack/developer-roadmap-chinese>goodjack/developer-roadmap-chinese</a><p>2021 年成為 Web 開發人員的路線圖 台灣正體中文版</p></li><li><a href=https://github.com/Innei/swr>Innei/swr</a></li><li><a href=https://github.com/twitter/twemoji>twitter/twemoji</a><p>Emoji for everyone. https://twemoji.twitter.com/</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/3/22, 5:05 PM<br>下一次刷新：12/3/22, 8:05 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/3/22, 8:10 PM<br>下一次刷新：12/3/22, 11:10 PM</p>
