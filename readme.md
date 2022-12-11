@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/plouc/nivo>plouc/nivo</a><p>nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries</p></li><li><a href=https://github.com/cacjs/cac>cacjs/cac</a><p>Simple yet powerful framework for building command-line apps.</p></li><li><a href=https://github.com/giscus/giscus>giscus/giscus</a><p>A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:</p></li><li><a href=https://github.com/Innei/rollup-typescript-lib>Innei/rollup-typescript-lib</a><p>Rollup Typescript library template</p></li><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a><p>An open source application built using the new router, server components and everything new in Next.js 13.</p></li></ul>
+<ul><li><a href=https://github.com/NekoChanTaiwan/astro-blog>NekoChanTaiwan/astro-blog</a><p>A Fast, Small & Powerful Blog Template For Developer.</p></li><li><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a><p>⚡️ Simple, Modular & Accessible UI Components for your React Applications</p></li><li><a href=https://github.com/matteobruni/tsparticles>matteobruni/tsparticles</a><p>tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.</p></li><li><a href=https://github.com/sanyuan0704/island.js>sanyuan0704/island.js</a><p>📝 Vite & MDX powered static site generator. Base on islands architecture</p></li><li><a href=https://github.com/solidjs/solid>solidjs/solid</a><p>A declarative, efficient, and flexible JavaScript library for building user interfaces.</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/11/22, 8:10 PM<br>下一次刷新：12/11/22, 11:10 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/11/22, 11:05 PM<br>下一次刷新：12/12/22, 2:05 AM</p>
