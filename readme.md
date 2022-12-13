@@ -63,7 +63,7 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/swr>Innei/swr</a></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative.</p></li><li><a href=https://github.com/react-icons/react-icons>react-icons/react-icons</a><p>svg react icons of popular icon packs</p></li><li><a href=https://github.com/solidjs/solid>solidjs/solid</a><p>A declarative, efficient, and flexible JavaScript library for building user interfaces.</p></li><li><a href=https://github.com/sanyuan0704/island.js>sanyuan0704/island.js</a><p>📝 Vite & MDX powered static site generator. Base on islands architecture</p></li></ul>
+<ul><li><a href=https://github.com/react-icons/react-icons>react-icons/react-icons</a><p>svg react icons of popular icon packs</p></li><li><a href=https://github.com/Innei/swr>Innei/swr</a></li><li><a href=https://github.com/matteobruni/tsparticles>matteobruni/tsparticles</a><p>tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.</p></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a><p>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</p></li><li><a href=https://github.com/Innei/markdown-to-jsx-vue3>Innei/markdown-to-jsx-vue3</a></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/13/22, 8:12 PM<br>下一次刷新：12/13/22, 11:12 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/13/22, 11:07 PM<br>下一次刷新：12/14/22, 2:07 AM</p>
