@@ -59,11 +59,11 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/AkaraChen/bump-version>AkaraChen/bump-version</a><p>Yet another bump version cli for npm packages, but written in Go.</p></li><li><a href=https://github.com/underthestars-zhy/IconChanger>underthestars-zhy/IconChanger</a><p>Simply change your app's icon on macOS. Just a click.</p></li><li><a href=https://github.com/jwcjs/core>jwcjs/core</a><p>🎨 Jwc.js is a JavaScript framework for using JSX to write web components on the web.</p></li><li><a href=https://github.com/catdad/canvas-confetti>catdad/canvas-confetti</a><p>🎉 on-demand confetti gun</p></li><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a><p>Node.js client for the unofficial ChatGPT API. 🔥</p></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a><p>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</p></li><li><a href=https://github.com/AkaraChen/bump-version>AkaraChen/bump-version</a><p>Yet another bump version cli for npm packages, but written in Go.</p></li><li><a href=https://github.com/underthestars-zhy/IconChanger>underthestars-zhy/IconChanger</a><p>Simply change your app's icon on macOS. Just a click.</p></li><li><a href=https://github.com/jwcjs/core>jwcjs/core</a><p>🎨 Jwc.js is a JavaScript framework for using JSX to write web components on the web.</p></li><li><a href=https://github.com/catdad/canvas-confetti>catdad/canvas-confetti</a><p>🎉 on-demand confetti gun</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a><p>加功德</p></li><li><a href=https://github.com/sudongyuer/react-patterns>sudongyuer/react-patterns</a><p>☄️ React相关der设计模式 (翻译)</p></li><li><a href=https://github.com/solidjs/solid>solidjs/solid</a><p>A declarative, efficient, and flexible JavaScript library for building user interfaces.</p></li><li><a href=https://github.com/NekoChanTaiwan/astro-blog>NekoChanTaiwan/astro-blog</a><p>A Fast, Small & Powerful Blog Template For Developer.</p></li><li><a href=https://github.com/Innei/rollup-typescript-lib>Innei/rollup-typescript-lib</a><p>Rollup Typescript library template</p></li></ul>
+<ul><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a><p>An open source application built using the new router, server components and everything new in Next.js 13.</p></li><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a><p>加功德</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li><li><a href=https://github.com/sudongyuer/react-patterns>sudongyuer/react-patterns</a><p>☄️ React相关der设计模式 (翻译)</p></li><li><a href=https://github.com/sindresorhus/execa>sindresorhus/execa</a><p>Process execution for humans</p></li></ul>
 
 **你能找到我吗**
 
@@ -72,4 +72,4 @@ Suemor 是一个正在学习前端的萌新，今年18岁。
 ------------
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/23/22, 5:06 PM<br>下一次刷新：12/23/22, 8:06 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/23/22, 8:10 PM<br>下一次刷新：12/23/22, 11:10 PM</p>
