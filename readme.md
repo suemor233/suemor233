@@ -62,7 +62,7 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mochajs/mocha>mochajs/mocha</a><p>☕️ simple, flexible, fun javascript test framework for node.js & the browser</p></li><li><a href=https://github.com/jwcjs/core>jwcjs/core</a><p>🎨 Jwc.js is a JavaScript framework for using JSX to write web components on the web.</p></li><li><a href=https://github.com/michalsnik/aos>michalsnik/aos</a><p>Animate on scroll library</p></li><li><a href=https://github.com/BetaSu/big-react>BetaSu/big-react</a><p>跟着我，从0实现React18</p></li><li><a href=https://github.com/react-icons/react-icons>react-icons/react-icons</a><p>svg react icons of popular icon packs</p></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/bump-version>AkaraChen/bump-version</a><p>Yet another bump version cli for npm packages, but written in Go.</p></li><li><a href=https://github.com/NekoChanTaiwan/astro-blog>NekoChanTaiwan/astro-blog</a><p>A Fast, Small & Powerful Blog Template For Developer.</p></li><li><a href=https://github.com/jwcjs/core>jwcjs/core</a><p>🎨 Jwc.js is a JavaScript framework for using JSX to write web components on the web.</p></li><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a><p>An open source application built using the new router, server components and everything new in Next.js 13.</p></li><li><a href=https://github.com/Innei/rollup-typescript-lib>Innei/rollup-typescript-lib</a><p>Rollup Typescript library template</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +71,4 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/1/23, 8:37 AM<br>下一次刷新：1/1/23, 11:37 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/1/23, 2:08 PM<br>下一次刷新：1/1/23, 5:08 PM</p>
