@@ -62,7 +62,7 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/markdown-to-jsx-vue3>Innei/markdown-to-jsx-vue3</a></li><li><a href=https://github.com/cacjs/cac>cacjs/cac</a><p>Simple yet powerful framework for building command-line apps.</p></li><li><a href=https://github.com/Innei/rollup-typescript-lib>Innei/rollup-typescript-lib</a><p>Rollup Typescript library template</p></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a><p>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</p></li><li><a href=https://github.com/hakimel/reveal.js>hakimel/reveal.js</a><p>The HTML Presentation Framework</p></li></ul>
+<ul><li><a href=https://github.com/hakimel/reveal.js>hakimel/reveal.js</a><p>The HTML Presentation Framework</p></li><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a><p>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</p></li><li><a href=https://github.com/Innei/rollup-typescript-lib>Innei/rollup-typescript-lib</a><p>Rollup Typescript library template</p></li><li><a href=https://github.com/cacjs/cac>cacjs/cac</a><p>Simple yet powerful framework for building command-line apps.</p></li><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a><p>Node.js client for the unofficial ChatGPT API. 🔥</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +71,4 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/8/23, 8:10 PM<br>下一次刷新：1/8/23, 11:10 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/8/23, 11:04 PM<br>下一次刷新：1/9/23, 2:04 AM</p>
