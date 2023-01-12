@@ -62,7 +62,7 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a><p>Node.js client for the unofficial ChatGPT API. 🔥</p></li><li><a href=https://github.com/NekoChanTaiwan/astro-blog>NekoChanTaiwan/astro-blog</a><p>A Fast, Small & Powerful Blog Template For Developer.</p></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative.</p></li><li><a href=https://github.com/underthestars-zhy/IconChanger>underthestars-zhy/IconChanger</a><p>Simply change your app's icon on macOS. Just a click.</p></li><li><a href=https://github.com/jwcjs/core>jwcjs/core</a><p>🎨 Jwc.js is a JavaScript framework for using JSX to write web components on the web.</p></li></ul>
+<ul><li><a href=https://github.com/catdad/canvas-confetti>catdad/canvas-confetti</a><p>🎉 on-demand confetti gun</p></li><li><a href=https://github.com/sindresorhus/execa>sindresorhus/execa</a><p>Process execution for humans</p></li><li><a href=https://github.com/marvinhagemeister/kolorist>marvinhagemeister/kolorist</a><p>A tiny utility to colorize stdin/stdout</p></li><li><a href=https://github.com/NekoChanTaiwan/astro-blog>NekoChanTaiwan/astro-blog</a><p>A Fast, Small & Powerful Blog Template For Developer.</p></li><li><a href=https://github.com/wibus-wee/bump-monorepo>wibus-wee/bump-monorepo</a><p>A Command Line Tool to bump monorepo packages.</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +71,4 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/13/23, 2:09 AM<br>下一次刷新：1/13/23, 5:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/13/23, 5:06 AM<br>下一次刷新：1/13/23, 8:06 AM</p>
