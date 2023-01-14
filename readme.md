@@ -62,7 +62,7 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a><p>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</p></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><p>🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</p></li><li><a href=https://github.com/jwcjs/core>jwcjs/core</a><p>🎨 Jwc.js is a JavaScript framework for using JSX to write web components on the web.</p></li><li><a href=https://github.com/chenshenhai/rollupjs-note>chenshenhai/rollupjs-note</a><p>《Rollup.js 实战学习笔记》已完结 😆</p></li><li><a href=https://github.com/sindresorhus/execa>sindresorhus/execa</a><p>Process execution for humans</p></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative.</p></li><li><a href=https://github.com/underthestars-zhy/IconChanger>underthestars-zhy/IconChanger</a><p>Simply change your app's icon on macOS. Just a click.</p></li><li><a href=https://github.com/terkelg/prompts>terkelg/prompts</a><p>❯ Lightweight, beautiful and user-friendly interactive prompts</p></li><li><a href=https://github.com/sindresorhus/execa>sindresorhus/execa</a><p>Process execution for humans</p></li><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a><p>得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +71,4 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/14/23, 8:32 AM<br>下一次刷新：1/14/23, 11:32 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/14/23, 11:07 AM<br>下一次刷新：1/14/23, 2:07 PM</p>
