@@ -62,7 +62,7 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/t3-oss/create-t3-app>t3-oss/create-t3-app</a><p>The best way to start a full-stack, typesafe Next.js app</p></li><li><a href=https://github.com/marvinhagemeister/kolorist>marvinhagemeister/kolorist</a><p>A tiny utility to colorize stdin/stdout</p></li><li><a href=https://github.com/sindresorhus/execa>sindresorhus/execa</a><p>Process execution for humans</p></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a><p>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</p></li><li><a href=https://github.com/Innei/markdown-to-jsx-vue3>Innei/markdown-to-jsx-vue3</a></li></ul>
+<ul><li><a href=https://github.com/underthestars-zhy/IconChanger>underthestars-zhy/IconChanger</a><p>Simply change your app's icon on macOS. Just a click.</p></li><li><a href=https://github.com/miru-project/miru>miru-project/miru</a><p>Miru 一个支持扩展视频源的在线影视播放器</p></li><li><a href=https://github.com/CodeEditApp/CodeEdit>CodeEditApp/CodeEdit</a><p>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</p></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a><p>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</p></li><li><a href=https://github.com/terkelg/prompts>terkelg/prompts</a><p>❯ Lightweight, beautiful and user-friendly interactive prompts</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +71,4 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/31/23, 5:07 PM<br>下一次刷新：1/31/23, 8:07 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/31/23, 8:11 PM<br>下一次刷新：1/31/23, 11:11 PM</p>
