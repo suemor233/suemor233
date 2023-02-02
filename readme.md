@@ -62,7 +62,7 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a><p>基于 Nextjs 开发仿掘金站点</p></li><li><a href=https://github.com/giscus/giscus>giscus/giscus</a><p>A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:</p></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><p>🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</p></li><li><a href=https://github.com/jwcjs/core>jwcjs/core</a><p>🎨 Jwc.js is a JavaScript framework for using JSX to write web components on the web.</p></li><li><a href=https://github.com/t3-oss/create-t3-app>t3-oss/create-t3-app</a><p>The best way to start a full-stack, typesafe Next.js app</p></li></ul>
+<ul><li><a href=https://github.com/sindresorhus/execa>sindresorhus/execa</a><p>Process execution for humans</p></li><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a><p>Node.js client for the unofficial ChatGPT API. 🔥</p></li><li><a href=https://github.com/marvinhagemeister/kolorist>marvinhagemeister/kolorist</a><p>A tiny utility to colorize stdin/stdout</p></li><li><a href=https://github.com/wibus-wee/bump-monorepo>wibus-wee/bump-monorepo</a><p>A Command Line Tool to bump monorepo packages.</p></li><li><a href=https://github.com/kaedei/dandanplay-libraryindex>kaedei/dandanplay-libraryindex</a><p>弹弹play Windows/UWP客户端远程访问功能html首页（媒体库内容的展示以及视频播放）</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +71,4 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/2/23, 11:06 PM<br>下一次刷新：2/3/23, 2:06 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/3/23, 2:08 AM<br>下一次刷新：2/3/23, 5:08 AM</p>
