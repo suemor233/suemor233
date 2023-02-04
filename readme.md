@@ -62,7 +62,7 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jwcjs/core>jwcjs/core</a><p>🎨 Jwc.js is a JavaScript framework for using JSX to write web components on the web.</p></li><li><a href=https://github.com/marvinhagemeister/kolorist>marvinhagemeister/kolorist</a><p>A tiny utility to colorize stdin/stdout</p></li><li><a href=https://github.com/Innei/rollup-typescript-lib>Innei/rollup-typescript-lib</a><p>Rollup Typescript library template</p></li><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a><p>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</p></li><li><a href=https://github.com/actions-cool/issues-helper>actions-cool/issues-helper</a><p>🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.</p></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/bump-version>AkaraChen/bump-version</a><p>Yet another bump version cli for npm packages, but written in Go.</p></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a><p>基于 Nextjs 开发仿掘金站点</p></li><li><a href=https://github.com/Innei/rollup-typescript-lib>Innei/rollup-typescript-lib</a><p>Rollup Typescript library template</p></li><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a><p>Node.js client for the unofficial ChatGPT API. 🔥</p></li><li><a href=https://github.com/CodeEditApp/CodeEdit>CodeEditApp/CodeEdit</a><p>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +71,4 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/4/23, 2:07 PM<br>下一次刷新：2/4/23, 5:07 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/4/23, 5:05 PM<br>下一次刷新：2/4/23, 8:05 PM</p>
