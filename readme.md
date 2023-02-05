@@ -58,11 +58,11 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/dylanpdx/BetterTwitFix>dylanpdx/BetterTwitFix</a><p>Fix Twitter video embeds in Discord (and Telegram!)</p></li><li><a href=https://github.com/probablyup/markdown-to-jsx>probablyup/markdown-to-jsx</a><p>🏭 The most lightweight, customizable React markdown component.</p></li><li><a href=https://github.com/fz6m/console-ban>fz6m/console-ban</a><p>Detect F12 open console, protect web static resources, support redirect, rewrite, callback strategies.</p></li><li><a href=https://github.com/umijs/umi>umijs/umi</a><p>A framework in react community ✨</p></li><li><a href=https://github.com/immersive-translate/immersive-translate>immersive-translate/immersive-translate</a><p>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</p></li></ul>
+<ul><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a><p>React components library with native dark theme support</p></li><li><a href=https://github.com/radix-ui/primitives>radix-ui/primitives</a><p>Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</p></li><li><a href=https://github.com/TanStack/table>TanStack/table</a><p>🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table</p></li><li><a href=https://github.com/dylanpdx/BetterTwitFix>dylanpdx/BetterTwitFix</a><p>Fix Twitter video embeds in Discord (and Telegram!)</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/chenshenhai/rollupjs-note>chenshenhai/rollupjs-note</a><p>《Rollup.js 实战学习笔记》已完结 😆</p></li><li><a href=https://github.com/jwcjs/core>jwcjs/core</a><p>🎨 Jwc.js is a JavaScript framework for using JSX to write web components on the web.</p></li><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li><li><a href=https://github.com/AkaraChen/lime>AkaraChen/lime</a><p>A quite simple pub-sub implement.</p></li><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a><p>Node.js client for the unofficial ChatGPT API. 🔥</p></li></ul>
+<ul><li><a href=https://github.com/kaedei/dandanplay-libraryindex>kaedei/dandanplay-libraryindex</a><p>弹弹play Windows/UWP客户端远程访问功能html首页（媒体库内容的展示以及视频播放）</p></li><li><a href=https://github.com/catdad/canvas-confetti>catdad/canvas-confetti</a><p>🎉 on-demand confetti gun</p></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a><p>基于 Nextjs 开发仿掘金站点</p></li><li><a href=https://github.com/AkaraChen/lime>AkaraChen/lime</a><p>A quite simple pub-sub implement.</p></li><li><a href=https://github.com/actions-cool/issues-helper>actions-cool/issues-helper</a><p>🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +71,4 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/5/23, 11:04 PM<br>下一次刷新：2/6/23, 2:04 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/6/23, 2:07 AM<br>下一次刷新：2/6/23, 5:07 AM</p>
