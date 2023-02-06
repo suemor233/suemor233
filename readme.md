@@ -62,7 +62,7 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><p>🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</p></li><li><a href=https://github.com/immersive-translate/immersive-translate>immersive-translate/immersive-translate</a><p>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</p></li><li><a href=https://github.com/underthestars-zhy/IconChanger>underthestars-zhy/IconChanger</a><p>Simply change your app's icon on macOS. Just a click.</p></li><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a><p>得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体</p></li><li><a href=https://github.com/wibus-wee/bump-monorepo>wibus-wee/bump-monorepo</a><p>A Command Line Tool to bump monorepo packages.</p></li></ul>
+<ul><li><a href=https://github.com/miru-project/miru>miru-project/miru</a><p>Miru 一个支持扩展视频源的在线影视播放器</p></li><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a><p>得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体</p></li><li><a href=https://github.com/AkaraChen/lime>AkaraChen/lime</a><p>A quite simple pub-sub implement.</p></li><li><a href=https://github.com/catdad/canvas-confetti>catdad/canvas-confetti</a><p>🎉 on-demand confetti gun</p></li><li><a href=https://github.com/immersive-translate/immersive-translate>immersive-translate/immersive-translate</a><p>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +71,4 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/6/23, 5:04 AM<br>下一次刷新：2/6/23, 8:04 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/6/23, 8:32 AM<br>下一次刷新：2/6/23, 11:32 AM</p>
