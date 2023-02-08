@@ -62,7 +62,7 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/underthestars-zhy/IconChanger>underthestars-zhy/IconChanger</a><p>Simply change your app's icon on macOS. Just a click.</p></li><li><a href=https://github.com/immersive-translate/immersive-translate>immersive-translate/immersive-translate</a><p>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</p></li><li><a href=https://github.com/marvinhagemeister/kolorist>marvinhagemeister/kolorist</a><p>A tiny utility to colorize stdin/stdout</p></li><li><a href=https://github.com/AkaraChen/bump-version>AkaraChen/bump-version</a><p>Yet another bump version cli for npm packages, but written in Go.</p></li><li><a href=https://github.com/actions-cool/issues-helper>actions-cool/issues-helper</a><p>🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.</p></li></ul>
+<ul><li><a href=https://github.com/miru-project/miru>miru-project/miru</a><p>Miru 一个支持扩展视频源的在线影视播放器</p></li><li><a href=https://github.com/immersive-translate/immersive-translate>immersive-translate/immersive-translate</a><p>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</p></li><li><a href=https://github.com/jwcjs/core>jwcjs/core</a><p>🎨 Jwc.js is a JavaScript framework for using JSX to write web components on the web.</p></li><li><a href=https://github.com/CodeEditApp/CodeEdit>CodeEditApp/CodeEdit</a><p>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</p></li><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a><p>Node.js client for the unofficial ChatGPT API. 🔥</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +71,4 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/8/23, 11:10 AM<br>下一次刷新：2/8/23, 2:10 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/8/23, 2:09 PM<br>下一次刷新：2/8/23, 5:09 PM</p>
