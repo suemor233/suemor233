@@ -1,47 +1,21 @@
 # Suemor 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Elmge.readme)
 
-Suemor 是一个正在学习前端的萌新，今年 18 岁。
+Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 他对于计算机十分感兴趣，正在不断学习，以扩充其知识面，他学习过以下技术:
 
 **Web Developer**
 
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=popout">
-    <img alt="TypeScript"src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="TailwindCSS"src="https://img.shields.io/badge/-Tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img alt="Vite" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="Rollup"
-    src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-
-</p>
+![Web Developer](https://skillicons.dev/icons?i=html,css,typescript,react,nextjs,vue,tailwindcss,vite,rollup,jest)
 
 **Backend Developer**
 
-<p>
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />  
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+![Backend Developer](https://skillicons.dev/icons?i=nestjs,nodejs,express,mongodb)
 
-</p>
+**Tools**
 
-**Android Developer**
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,githubactions,docker)
 
-<p>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Android" src="https://img.shields.io/badge/-Android-5BA17F?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/-Sqlite-1572B6.svg?logo=Sqlite&style=popout">
-</p>
-
-**Environment**
-
-<p>
-  <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-</p>
 
 <!-- <p align="center">
   <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
