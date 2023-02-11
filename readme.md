@@ -1,47 +1,21 @@
 # Suemor 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Elmge.readme)
 
-Suemor 是一个正在学习前端的萌新，今年 18 岁。
+Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 他对于计算机十分感兴趣，正在不断学习，以扩充其知识面，他学习过以下技术:
 
 **Web Developer**
 
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=popout">
-    <img alt="TypeScript"src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="TailwindCSS"src="https://img.shields.io/badge/-Tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img alt="Vite" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="Rollup"
-    src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-
-</p>
+![Web Developer](https://skillicons.dev/icons?i=html,css,typescript,react,nextjs,vue,tailwindcss,vite,rollup,jest)
 
 **Backend Developer**
 
-<p>
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />  
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+![Backend Developer](https://skillicons.dev/icons?i=nestjs,nodejs,express,mongodb)
 
-</p>
+**Tools**
 
-**Android Developer**
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,githubactions,docker)
 
-<p>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Android" src="https://img.shields.io/badge/-Android-5BA17F?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/-Sqlite-1572B6.svg?logo=Sqlite&style=popout">
-</p>
-
-**Environment**
-
-<p>
-  <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-</p>
 
 <!-- <p align="center">
   <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
@@ -54,7 +28,7 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/suemor233/search-start-page target=_blank><b>suemor233/search-start-page</b></a> <a href=https://search.suemor.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/search-start-page?style=flat-square&labelColor=343b41"></td><td>4/26/2022</td><td>6/4/2022</td></tr><tr><td><a href=https://github.com/suemor233/navigation-admin target=_blank><b>suemor233/navigation-admin</b></a> <a href=https://admin.suemor.com/#/login target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation-admin?style=flat-square&labelColor=343b41"></td><td>6/2/2022</td><td>7/6/2022</td></tr><tr><td><a href=https://github.com/suemor233/navigation target=_blank><b>suemor233/navigation</b></a> <a href=https://n.suemor.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation?style=flat-square&labelColor=343b41"></td><td>7/26/2022</td><td>8/23/2022</td></tr><tr><td><a href=https://github.com/suemor233/navigation-server target=_blank><b>suemor233/navigation-server</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation-server?style=flat-square&labelColor=343b41"></td><td>6/4/2022</td><td>7/31/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/suemor233/navigation-server target=_blank><b>suemor233/navigation-server</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation-server?style=flat-square&labelColor=343b41"></td><td>6/4/2022</td><td>7/31/2022</td></tr><tr><td><a href=https://github.com/suemor233/navigation target=_blank><b>suemor233/navigation</b></a> <a href=https://n.suemor.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation?style=flat-square&labelColor=343b41"></td><td>7/26/2022</td><td>8/23/2022</td></tr><tr><td><a href=https://github.com/suemor233/search-start-page target=_blank><b>suemor233/search-start-page</b></a> <a href=https://search.suemor.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/search-start-page?style=flat-square&labelColor=343b41"></td><td>4/26/2022</td><td>6/4/2022</td></tr><tr><td><a href=https://github.com/suemor233/navigation-admin target=_blank><b>suemor233/navigation-admin</b></a> <a href=https://admin.suemor.com/#/login target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation-admin?style=flat-square&labelColor=343b41"></td><td>6/2/2022</td><td>7/6/2022</td></tr></tbody></table>
 
 **最近赞了...**
 
@@ -62,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/lime>AkaraChen/lime</a><p>A quite simple pub-sub implement.</p></li><li><a href=https://github.com/wibus-wee/bump-monorepo>wibus-wee/bump-monorepo</a><p>A Command Line Tool to bump monorepo packages.</p></li><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a><p>得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体</p></li><li><a href=https://github.com/radix-ui/primitives>radix-ui/primitives</a><p>Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</p></li><li><a href=https://github.com/probablyup/markdown-to-jsx>probablyup/markdown-to-jsx</a><p>🏭 The most lightweight, customizable React markdown component.</p></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li><li><a href=https://github.com/fz6m/console-ban>fz6m/console-ban</a><p>Detect F12 open console, protect web static resources, support redirect, rewrite, callback strategies.</p></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a><p>基于 Nextjs 开发仿掘金站点</p></li><li><a href=https://github.com/AkaraChen/lime>AkaraChen/lime</a><p>A quite simple pub-sub implement.</p></li><li><a href=https://github.com/wibus-wee/bump-monorepo>wibus-wee/bump-monorepo</a><p>A Command Line Tool to bump monorepo packages.</p></li></ul>
 
 **你能找到我吗**
 
@@ -71,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 18 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/11/23, 11:07 AM<br>下一次刷新：2/11/23, 2:07 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/11/23, 12:28 PM<br>下一次刷新：2/11/23, 3:28 PM</p>
