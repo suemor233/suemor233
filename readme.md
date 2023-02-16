@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/miru-project/miru>miru-project/miru</a><p>Miru 一个支持扩展视频源的在线影视播放器</p></li><li><a href=https://github.com/toeverything/AFFiNE>toeverything/AFFiNE</a><p>There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</p></li><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a><p>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</p></li><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a><p>得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体</p></li><li><a href=https://github.com/probablyup/markdown-to-jsx>probablyup/markdown-to-jsx</a><p>🏭 The most lightweight, customizable React markdown component.</p></li></ul>
+<ul><li><a href=https://github.com/toeverything/AFFiNE>toeverything/AFFiNE</a><p>There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</p></li><li><a href=https://github.com/terkelg/prompts>terkelg/prompts</a><p>❯ Lightweight, beautiful and user-friendly interactive prompts</p></li><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a><p>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</p></li><li><a href=https://github.com/dylanpdx/BetterTwitFix>dylanpdx/BetterTwitFix</a><p>Fix Twitter video embeds in Discord (and Telegram!)</p></li><li><a href=https://github.com/probablyup/markdown-to-jsx>probablyup/markdown-to-jsx</a><p>🏭 The most lightweight, customizable React markdown component.</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/16/23, 5:06 AM<br>下一次刷新：2/16/23, 8:06 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/16/23, 8:36 AM<br>下一次刷新：2/16/23, 11:36 AM</p>
