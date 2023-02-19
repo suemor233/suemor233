@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/probablyup/markdown-to-jsx>probablyup/markdown-to-jsx</a><p>🏭 The most lightweight, customizable React markdown component.</p></li><li><a href=https://github.com/dylanpdx/BetterTwitFix>dylanpdx/BetterTwitFix</a><p>Fix Twitter video embeds in Discord (and Telegram!)</p></li><li><a href=https://github.com/actions-cool/issues-helper>actions-cool/issues-helper</a><p>🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.</p></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a><p>基于 Nextjs 开发仿掘金站点</p></li><li><a href=https://github.com/AkaraChen/lime>AkaraChen/lime</a><p>A quite simple pub-sub implement.</p></li></ul>
+<ul><li><a href=https://github.com/probablyup/markdown-to-jsx>probablyup/markdown-to-jsx</a><p>🏭 The most lightweight, customizable React markdown component.</p></li><li><a href=https://github.com/radix-ui/primitives>radix-ui/primitives</a><p>Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</p></li><li><a href=https://github.com/fz6m/console-ban>fz6m/console-ban</a><p>Detect F12 open console, protect web static resources, support redirect, rewrite, callback strategies.</p></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a><p>基于 Nextjs 开发仿掘金站点</p></li><li><a href=https://github.com/CodeEditApp/CodeEdit>CodeEditApp/CodeEdit</a><p>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/19/23, 5:04 AM<br>下一次刷新：2/19/23, 8:04 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/19/23, 8:36 AM<br>下一次刷新：2/19/23, 11:36 AM</p>
