@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/immersive-translate/immersive-translate>immersive-translate/immersive-translate</a><p>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</p></li><li><a href=https://github.com/dzzzzzy/Nestjs-Learning>dzzzzzy/Nestjs-Learning</a><p>nestjs 学习教程 :books:，跟我一起学习 nest 框架~ :muscle:</p></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><p>🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</p></li><li><a href=https://github.com/miru-project/miru>miru-project/miru</a><p>Miru 一个支持扩展视频源的在线影视播放器</p></li><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li></ul>
+<ul><li><a href=https://github.com/TanStack/table>TanStack/table</a><p>🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table</p></li><li><a href=https://github.com/dylanpdx/BetterTwitFix>dylanpdx/BetterTwitFix</a><p>Fix Twitter video embeds in Discord (and Telegram!)</p></li><li><a href=https://github.com/AkaraChen/lime>AkaraChen/lime</a><p>A quite simple pub-sub implement.</p></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a><p>基于 Nextjs 开发仿掘金站点</p></li><li><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a><p>React components library with native dark theme support</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/23/23, 8:12 PM<br>下一次刷新：2/23/23, 11:12 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/23/23, 11:07 PM<br>下一次刷新：2/24/23, 2:07 AM</p>
