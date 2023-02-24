@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li><li><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a><p>React components library with native dark theme support</p></li><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/dzzzzzy/Nestjs-Learning>dzzzzzy/Nestjs-Learning</a><p>nestjs 学习教程 :books:，跟我一起学习 nest 框架~ :muscle:</p></li><li><a href=https://github.com/AkaraChen/confetti>AkaraChen/confetti</a></li></ul>
+<ul><li><a href=https://github.com/actions-cool/issues-helper>actions-cool/issues-helper</a><p>🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.</p></li><li><a href=https://github.com/immersive-translate/immersive-translate>immersive-translate/immersive-translate</a><p>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</p></li><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/kaedei/dandanplay-libraryindex>kaedei/dandanplay-libraryindex</a><p>弹弹play Windows/UWP客户端远程访问功能html首页（媒体库内容的展示以及视频播放）</p></li><li><a href=https://github.com/probablyup/markdown-to-jsx>probablyup/markdown-to-jsx</a><p>🏭 The most lightweight, customizable React markdown component.</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/25/23, 2:08 AM<br>下一次刷新：2/25/23, 5:08 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/25/23, 5:03 AM<br>下一次刷新：2/25/23, 8:03 AM</p>
