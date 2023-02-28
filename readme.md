@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/radix-ui/primitives>radix-ui/primitives</a><p>Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</p></li><li><a href=https://github.com/microsoft/playwright>microsoft/playwright</a><p>Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.</p></li><li><a href=https://github.com/kaedei/dandanplay-libraryindex>kaedei/dandanplay-libraryindex</a><p>弹弹play Windows/UWP客户端远程访问功能html首页（媒体库内容的展示以及视频播放）</p></li></ul>
+<ul><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a><p>💠 BlockSuite is the open-source collaborative editor project behind AFFiNE.</p></li><li><a href=https://github.com/dzzzzzy/Nestjs-Learning>dzzzzzy/Nestjs-Learning</a><p>nestjs 学习教程 :books:，跟我一起学习 nest 框架~ :muscle:</p></li><li><a href=https://github.com/TanStack/table>TanStack/table</a><p>🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table</p></li><li><a href=https://github.com/CodeEditApp/CodeEdit>CodeEditApp/CodeEdit</a><p>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</p></li><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a><p>得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/28/23, 8:12 PM<br>下一次刷新：2/28/23, 11:12 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/28/23, 11:07 PM<br>下一次刷新：3/1/23, 2:07 AM</p>
