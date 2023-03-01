@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li><li><a href=https://github.com/TanStack/table>TanStack/table</a><p>🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table</p></li><li><a href=https://github.com/umijs/umi>umijs/umi</a><p>A framework in react community ✨</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/microsoft/playwright>microsoft/playwright</a><p>Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.</p></li></ul>
+<ul><li><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a><p>React components library with native dark theme support</p></li><li><a href=https://github.com/CodeEditApp/CodeEdit>CodeEditApp/CodeEdit</a><p>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</p></li><li><a href=https://github.com/actions-cool/issues-helper>actions-cool/issues-helper</a><p>🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.</p></li><li><a href=https://github.com/fz6m/console-ban>fz6m/console-ban</a><p>Detect F12 open console, protect web static resources, support redirect, rewrite, callback strategies.</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/1/23, 8:12 PM<br>下一次刷新：3/1/23, 11:12 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/1/23, 11:07 PM<br>下一次刷新：3/2/23, 2:07 AM</p>
