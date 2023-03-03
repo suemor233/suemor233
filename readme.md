@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/lime>AkaraChen/lime</a><p>A quite simple pub-sub implement.</p></li><li><a href=https://github.com/microsoft/playwright>microsoft/playwright</a><p>Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.</p></li><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a><p>基于 Nextjs 开发仿掘金站点</p></li><li><a href=https://github.com/actions-cool/issues-helper>actions-cool/issues-helper</a><p>🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.</p></li></ul>
+<ul><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a><p>基于 Nextjs 开发仿掘金站点</p></li><li><a href=https://github.com/CodeEditApp/CodeEdit>CodeEditApp/CodeEdit</a><p>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</p></li><li><a href=https://github.com/immersive-translate/immersive-translate>immersive-translate/immersive-translate</a><p>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</p></li><li><a href=https://github.com/natemoo-re/clack>natemoo-re/clack</a><p>Effortlessly build beautiful command-line apps</p></li><li><a href=https://github.com/kaedei/dandanplay-libraryindex>kaedei/dandanplay-libraryindex</a><p>弹弹play Windows/UWP客户端远程访问功能html首页（媒体库内容的展示以及视频播放）</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/3/23, 11:07 PM<br>下一次刷新：3/4/23, 2:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/4/23, 2:08 AM<br>下一次刷新：3/4/23, 5:08 AM</p>
