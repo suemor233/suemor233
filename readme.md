@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li><li><a href=https://github.com/AkaraChen/confetti>AkaraChen/confetti</a></li><li><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a><p>React components library with native dark theme support</p></li><li><a href=https://github.com/AkaraChen/lime>AkaraChen/lime</a><p>A quite simple pub-sub implement.</p></li><li><a href=https://github.com/natemoo-re/clack>natemoo-re/clack</a><p>Effortlessly build beautiful command-line apps</p></li></ul>
+<ul><li><a href=https://github.com/fz6m/console-ban>fz6m/console-ban</a><p>Detect F12 open console, protect web static resources, support redirect, rewrite, callback strategies.</p></li><li><a href=https://github.com/microsoft/playwright>microsoft/playwright</a><p>Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.</p></li><li><a href=https://github.com/dylanpdx/BetterTwitFix>dylanpdx/BetterTwitFix</a><p>Fix Twitter video embeds in Discord (and Telegram!)</p></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a><p>基于 Nextjs 开发仿掘金站点</p></li><li><a href=https://github.com/actions-cool/issues-helper>actions-cool/issues-helper</a><p>🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/5/23, 5:06 PM<br>下一次刷新：3/5/23, 8:06 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/5/23, 8:11 PM<br>下一次刷新：3/5/23, 11:11 PM</p>
