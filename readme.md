@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a><p>💠 BlockSuite is the open-source collaborative editor project behind AFFiNE.</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/immersive-translate/immersive-translate>immersive-translate/immersive-translate</a><p>Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展</p></li><li><a href=https://github.com/nextui-org/tailwind-variants>nextui-org/tailwind-variants</a><p>🦄 Tailwindcss first-class variant API</p></li></ul>
+<ul><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/yetone/openai-translator>yetone/openai-translator</a><p>基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</p></li><li><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a><p>React components library with native dark theme support</p></li><li><a href=https://github.com/TanStack/table>TanStack/table</a><p>🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table</p></li><li><a href=https://github.com/umijs/umi>umijs/umi</a><p>A framework in react community ✨</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/21/23, 5:04 AM<br>下一次刷新：3/21/23, 8:04 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/21/23, 8:33 AM<br>下一次刷新：3/21/23, 11:33 AM</p>
