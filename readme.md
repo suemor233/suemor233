@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a><p>🧱 BlockSuite is the open-source collaborative editor project behind AFFiNE.</p></li><li><a href=https://github.com/jj811208/watching-you>jj811208/watching-you</a><p>watching-you is a javascript library for building animations that watch anything on DOM 👀.</p></li><li><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a><p>A fully featured React components library</p></li></ul>
+<ul><li><a href=https://github.com/pnpm/only-allow>pnpm/only-allow</a><p>Force a specific package manager to be used on a project</p></li><li><a href=https://github.com/jamiebuilds/tailwindcss-animate>jamiebuilds/tailwindcss-animate</a><p>A Tailwind CSS plugin for creating beautiful animations</p></li><li><a href=https://github.com/trpc/trpc>trpc/trpc</a><p>🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</p></li><li><a href=https://github.com/TanStack/table>TanStack/table</a><p>🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table</p></li><li><a href=https://github.com/pmndrs/jotai>pmndrs/jotai</a><p>👻 Primitive and flexible state management for React</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/26/23, 8:10 PM<br>下一次刷新：3/26/23, 11:10 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/26/23, 11:04 PM<br>下一次刷新：3/27/23, 2:04 AM</p>
