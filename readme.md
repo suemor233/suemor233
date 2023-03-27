@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jamiebuilds/tailwindcss-animate>jamiebuilds/tailwindcss-animate</a><p>A Tailwind CSS plugin for creating beautiful animations</p></li><li><a href=https://github.com/pmndrs/jotai>pmndrs/jotai</a><p>👻 Primitive and flexible state management for React</p></li><li><a href=https://github.com/natemoo-re/clack>natemoo-re/clack</a><p>Effortlessly build beautiful command-line apps</p></li><li><a href=https://github.com/TanStack/table>TanStack/table</a><p>🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table</p></li><li><a href=https://github.com/unjs/unbuild>unjs/unbuild</a><p>An unified javascript build system</p></li></ul>
+<ul><li><a href=https://github.com/pnpm/only-allow>pnpm/only-allow</a><p>Force a specific package manager to be used on a project</p></li><li><a href=https://github.com/jj811208/watching-you>jj811208/watching-you</a><p>watching-you is a javascript library for building animations that watch anything on DOM 👀.</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/radix-ui/primitives>radix-ui/primitives</a><p>Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</p></li><li><a href=https://github.com/jamiebuilds/tailwindcss-animate>jamiebuilds/tailwindcss-animate</a><p>A Tailwind CSS plugin for creating beautiful animations</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/27/23, 2:08 PM<br>下一次刷新：3/27/23, 5:08 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/27/23, 5:07 PM<br>下一次刷新：3/27/23, 8:07 PM</p>
