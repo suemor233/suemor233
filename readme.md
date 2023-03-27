@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jj811208/watching-you>jj811208/watching-you</a><p>watching-you is a javascript library for building animations that watch anything on DOM 👀.</p></li><li><a href=https://github.com/pmndrs/jotai>pmndrs/jotai</a><p>👻 Primitive and flexible state management for React</p></li><li><a href=https://github.com/microsoft/playwright>microsoft/playwright</a><p>Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.</p></li><li><a href=https://github.com/mysticatea/npm-run-all>mysticatea/npm-run-all</a><p>A CLI tool to run multiple npm-scripts in parallel or sequential.</p></li><li><a href=https://github.com/yetone/openai-translator>yetone/openai-translator</a><p>基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</p></li></ul>
+<ul><li><a href=https://github.com/microsoft/playwright>microsoft/playwright</a><p>Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.</p></li><li><a href=https://github.com/AkaraChen/confetti>AkaraChen/confetti</a></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a><p>🧱 BlockSuite is the open-source collaborative editor project behind AFFiNE.</p></li><li><a href=https://github.com/TanStack/table>TanStack/table</a><p>🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table</p></li><li><a href=https://github.com/unjs/unbuild>unjs/unbuild</a><p>An unified javascript build system</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/27/23, 8:32 AM<br>下一次刷新：3/27/23, 11:32 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/27/23, 11:07 AM<br>下一次刷新：3/27/23, 2:07 PM</p>
