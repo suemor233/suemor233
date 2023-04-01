@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/colinhacks/zod>colinhacks/zod</a><p>TypeScript-first schema validation with static type inference</p></li><li><a href=https://github.com/trpc/trpc>trpc/trpc</a><p>🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</p></li><li><a href=https://github.com/natemoo-re/clack>natemoo-re/clack</a><p>Effortlessly build beautiful command-line apps</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/nextui-org/tailwind-variants>nextui-org/tailwind-variants</a><p>🦄 Tailwindcss first-class variant API</p></li></ul>
+<ul><li><a href=https://github.com/trpc/trpc>trpc/trpc</a><p>🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</p></li><li><a href=https://github.com/mysticatea/npm-run-all>mysticatea/npm-run-all</a><p>A CLI tool to run multiple npm-scripts in parallel or sequential.</p></li><li><a href=https://github.com/natemoo-re/clack>natemoo-re/clack</a><p>Effortlessly build beautiful command-line apps</p></li><li><a href=https://github.com/yetone/openai-translator>yetone/openai-translator</a><p>基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</p></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a><p>BlockSuite is the open-source collaborative editor project behind AFFiNE.</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/1/23, 8:35 AM<br>下一次刷新：4/1/23, 11:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/1/23, 11:06 AM<br>下一次刷新：4/1/23, 2:06 PM</p>
