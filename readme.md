@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/trpc/trpc>trpc/trpc</a><p>🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</p></li><li><a href=https://github.com/pmndrs/jotai>pmndrs/jotai</a><p>👻 Primitive and flexible state management for React</p></li><li><a href=https://github.com/refined-github/refined-github>refined-github/refined-github</a><p>:octocat: Browser extension that simplifies the GitHub interface and adds useful features</p></li><li><a href=https://github.com/jamiebuilds/tailwindcss-animate>jamiebuilds/tailwindcss-animate</a><p>A Tailwind CSS plugin for creating beautiful animations</p></li></ul>
+<ul><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a><p>Simple React Component That Makes Titles More Readable</p></li><li><a href=https://github.com/yetone/openai-translator>yetone/openai-translator</a><p>基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</p></li><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a><p>The React library to build dashboards fast.</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/refined-github/refined-github>refined-github/refined-github</a><p>:octocat: Browser extension that simplifies the GitHub interface and adds useful features</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/11/23, 11:06 PM<br>下一次刷新：4/12/23, 2:06 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/12/23, 2:04 AM<br>下一次刷新：4/12/23, 5:04 AM</p>
