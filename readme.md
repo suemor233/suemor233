@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/contentlayerdev/contentlayer>contentlayerdev/contentlayer</a><p>Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app</p></li><li><a href=https://github.com/fz6m/rs-module-lexer>fz6m/rs-module-lexer</a><p>ES module parser powered by Rust</p></li><li><a href=https://github.com/pnpm/only-allow>pnpm/only-allow</a><p>Force a specific package manager to be used on a project</p></li><li><a href=https://github.com/trpc/trpc>trpc/trpc</a><p>🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</p></li><li><a href=https://github.com/unjs/unbuild>unjs/unbuild</a><p>📦 An unified javascript build system</p></li></ul>
+<ul><li><a href=https://github.com/pmndrs/jotai>pmndrs/jotai</a><p>👻 Primitive and flexible state management for React</p></li><li><a href=https://github.com/web-infra-dev/rspack>web-infra-dev/rspack</a><p>A fast Rust-based web bundler 🦀️</p></li><li><a href=https://github.com/fz6m/rs-module-lexer>fz6m/rs-module-lexer</a><p>ES module parser powered by Rust</p></li><li><a href=https://github.com/trpc/trpc>trpc/trpc</a><p>🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</p></li><li><a href=https://github.com/contentlayerdev/contentlayer>contentlayerdev/contentlayer</a><p>Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/13/23, 2:07 AM<br>下一次刷新：4/13/23, 5:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/13/23, 5:04 AM<br>下一次刷新：4/13/23, 8:04 AM</p>
