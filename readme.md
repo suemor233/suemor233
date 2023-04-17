@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/localForage/localForage>localForage/localForage</a><p>💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.</p></li><li><a href=https://github.com/refined-github/refined-github>refined-github/refined-github</a><p>:octocat: Browser extension that simplifies the GitHub interface and adds useful features</p></li><li><a href=https://github.com/fz6m/rs-module-lexer>fz6m/rs-module-lexer</a><p>ES module parser powered by Rust</p></li><li><a href=https://github.com/unjs/unbuild>unjs/unbuild</a><p>📦 An unified javascript build system</p></li><li><a href=https://github.com/web-infra-dev/rspack>web-infra-dev/rspack</a><p>A fast Rust-based web bundler 🦀️</p></li></ul>
+<ul><li><a href=https://github.com/dcastil/tailwind-merge>dcastil/tailwind-merge</a><p>Merge Tailwind CSS classes without style conflicts</p></li><li><a href=https://github.com/jj811208/watching-you>jj811208/watching-you</a><p>watching-you is a javascript library for building animations that watch anything on DOM 👀.</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a><p>Simple React Component That Makes Titles More Readable</p></li><li><a href=https://github.com/unjs/unbuild>unjs/unbuild</a><p>📦 An unified javascript build system</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/23, 2:07 AM<br>下一次刷新：4/18/23, 5:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/23, 5:04 AM<br>下一次刷新：4/18/23, 8:04 AM</p>
