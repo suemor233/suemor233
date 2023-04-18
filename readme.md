@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/localForage/localForage>localForage/localForage</a><p>💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a><p>Simple React Component That Makes Titles More Readable</p></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><p>🪽 The best on-chain and open-source blogging community for everyone.</p></li><li><a href=https://github.com/colinhacks/zod>colinhacks/zod</a><p>TypeScript-first schema validation with static type inference</p></li></ul>
+<ul><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><p>🪽 The best on-chain and open-source blogging community for everyone.</p></li><li><a href=https://github.com/pplulee/appleid_auto>pplulee/appleid_auto</a><p>基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号</p></li><li><a href=https://github.com/pmndrs/jotai>pmndrs/jotai</a><p>👻 Primitive and flexible state management for React</p></li><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a><p>The React library to build dashboards fast.</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/23, 8:11 PM<br>下一次刷新：4/18/23, 11:11 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/23, 11:07 PM<br>下一次刷新：4/19/23, 2:07 AM</p>
