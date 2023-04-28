@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/vscode-open-in-github>AkaraChen/vscode-open-in-github</a></li><li><a href=https://github.com/discordjs/discord.js>discordjs/discord.js</a><p>A powerful JavaScript library for interacting with the Discord API</p></li><li><a href=https://github.com/localForage/localForage>localForage/localForage</a><p>💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.</p></li><li><a href=https://github.com/pnpm/only-allow>pnpm/only-allow</a><p>Force a specific package manager to be used on a project</p></li><li><a href=https://github.com/fz6m/rs-module-lexer>fz6m/rs-module-lexer</a><p>ES module parser powered by Rust</p></li></ul>
+<ul><li><a href=https://github.com/pmndrs/jotai>pmndrs/jotai</a><p>👻 Primitive and flexible state management for React</p></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><p>🪽 The best on-chain and open-source blogging community for everyone.</p></li><li><a href=https://github.com/vercel-labs/nextgram>vercel-labs/nextgram</a><p>A sample Next.js app showing dynamic routing with modals as a route.</p></li><li><a href=https://github.com/jamiebuilds/tailwindcss-animate>jamiebuilds/tailwindcss-animate</a><p>A Tailwind CSS plugin for creating beautiful animations</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/28/23, 8:10 PM<br>下一次刷新：4/28/23, 11:10 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/28/23, 11:05 PM<br>下一次刷新：4/29/23, 2:05 AM</p>
