@@ -36,7 +36,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jshemas/openGraphScraper>jshemas/openGraphScraper</a><p>Node.js scraper service for Open Graph Info and More!</p></li><li><a href=https://github.com/refined-github/refined-github>refined-github/refined-github</a><p>:octocat: Browser extension that simplifies the GitHub interface and adds useful features</p></li><li><a href=https://github.com/dcastil/tailwind-merge>dcastil/tailwind-merge</a><p>Merge Tailwind CSS classes without style conflicts</p></li><li><a href=https://github.com/colinhacks/zod>colinhacks/zod</a><p>TypeScript-first schema validation with static type inference</p></li><li><a href=https://github.com/yetone/openai-translator>yetone/openai-translator</a><p>基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</p></li></ul>
+<ul><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><p>🪽 The best on-chain and open-source blogging community for everyone.</p></li><li><a href=https://github.com/unjs/unbuild>unjs/unbuild</a><p>📦 An unified javascript build system</p></li><li><a href=https://github.com/microsoft/TaskMatrix>microsoft/TaskMatrix</a></li><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a><p>Simple React Component That Makes Titles More Readable</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +45,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/29/23, 5:04 PM<br>下一次刷新：4/29/23, 8:04 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/29/23, 8:09 PM<br>下一次刷新：4/29/23, 11:09 PM</p>
