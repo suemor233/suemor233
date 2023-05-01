@@ -6,15 +6,47 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **Web Developer**
 
-![Web Developer](https://skillicons.dev/icons?i=html,css,typescript,react,nextjs,vue,tailwindcss,vite,rollup,jest)
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript"
+    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Rollup"
+    src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+<img alt="TailwindCSS"
+    src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img alt="Vite 2" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
+<img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
+
+</p>
 
 **Backend Developer**
 
-![Backend Developer](https://skillicons.dev/icons?i=nestjs,nodejs,express,mongodb)
+<p>
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB"
+    src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-**Tools**
+**Mobile Developer**
 
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,githubactions,docker)
+<p>
+  <img alt="RN" src="https://img.shields.io/badge/-ReactNative-7DD0EF?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android-84B963?style=flat-square&logo=android&logoColor=white" />
+</p>
+
+**DevOps**
+
+<p>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions"
+    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+</p>
 
 
 <!-- <p align="center">
@@ -28,7 +60,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/suemor233/navigation-server target=_blank><b>suemor233/navigation-server</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation-server?style=flat-square&labelColor=343b41"></td><td>6/4/2022</td><td>7/31/2022</td></tr><tr><td><a href=https://github.com/suemor233/navigation-admin target=_blank><b>suemor233/navigation-admin</b></a> <a href=https://admin.suemor.com/#/login target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation-admin?style=flat-square&labelColor=343b41"></td><td>6/2/2022</td><td>7/6/2022</td></tr><tr><td><a href=https://github.com/suemor233/search-start-page target=_blank><b>suemor233/search-start-page</b></a> <a href=https://search.suemor.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/search-start-page?style=flat-square&labelColor=343b41"></td><td>4/26/2022</td><td>6/4/2022</td></tr><tr><td><a href=https://github.com/suemor233/navigation target=_blank><b>suemor233/navigation</b></a> <a href=https://n.suemor.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/navigation?style=flat-square&labelColor=343b41"></td><td>7/26/2022</td><td>8/23/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/mx-space/kami target=_blank><b>mx-space/kami</b></a> <a href=https://innei.ren target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/kami?style=flat-square&labelColor=343b41"></td><td>4/13/2020</td><td>5/1/2023</td></tr><tr><td><a href=https://github.com/mx-space/mx-admin target=_blank><b>mx-space/mx-admin</b></a> <a href=https://mx.shizuri.net/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/mx-admin?style=flat-square&labelColor=343b41"></td><td>3/22/2021</td><td>5/1/2023</td></tr><tr><td><a href=https://github.com/Crossbell-Box/xLog target=_blank><b>Crossbell-Box/xLog</b></a> <a href=https://xlog.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Crossbell-Box/xLog?style=flat-square&labelColor=343b41"></td><td>6/21/2022</td><td>5/1/2023</td></tr><tr><td><a href=https://github.com/suemor233/LostAndFound-weapp target=_blank><b>suemor233/LostAndFound-weapp</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/LostAndFound-weapp?style=flat-square&labelColor=343b41"></td><td>8/24/2022</td><td>2/28/2023</td></tr></tbody></table>
 
 **最近赞了...**
 
@@ -36,7 +68,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vercel-labs/nextgram>vercel-labs/nextgram</a><p>A sample Next.js app showing dynamic routing with modals as a route.</p></li><li><a href=https://github.com/fz6m/rs-module-lexer>fz6m/rs-module-lexer</a><p>ES module parser powered by Rust</p></li><li><a href=https://github.com/yetone/openai-translator>yetone/openai-translator</a><p>基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.</p></li><li><a href=https://github.com/web-infra-dev/rspack>web-infra-dev/rspack</a><p>A fast Rust-based web bundler 🦀️</p></li><li><a href=https://github.com/TanStack/bling>TanStack/bling</a><p>💍 Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.</p></li></ul>
+<ul><li><a href=https://github.com/fz6m/rs-module-lexer>fz6m/rs-module-lexer</a><p>ES module parser powered by Rust</p></li><li><a href=https://github.com/pnpm/only-allow>pnpm/only-allow</a><p>Force a specific package manager to be used on a project</p></li><li><a href=https://github.com/dcastil/tailwind-merge>dcastil/tailwind-merge</a><p>Merge Tailwind CSS classes without style conflicts</p></li><li><a href=https://github.com/trpc/trpc>trpc/trpc</a><p>🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.</p></li><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a><p>Simple React Component That Makes Titles More Readable</p></li></ul>
 
 **你能找到我吗**
 
@@ -45,4 +77,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/1/23, 8:10 PM<br>下一次刷新：5/1/23, 11:10 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/1/23, 11:17 PM<br>下一次刷新：5/2/23, 2:17 AM</p>
