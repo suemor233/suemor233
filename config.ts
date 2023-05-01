@@ -3,10 +3,10 @@ export const opensource = {
     limit: 4,
     random: true,
     repos: [
-      'suemor233/search-start-page',
-      'suemor233/Navigation',
-      'suemor233/navigation-admin',
-      'suemor233/navigation-server',
+      'mx-space/kami',
+      'mx-space/mx-admin',
+      'Crossbell-Box/xLog',
+      'suemor233/LostAndFound-weapp',
     ],
   },
 }
