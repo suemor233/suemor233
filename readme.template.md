@@ -35,7 +35,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 <p>
   <img alt="RN" src="https://img.shields.io/badge/-ReactNative-7DD0EF?style=flat-square&logo=react&logoColor=white" />
-
+  <img alt="Android" src="https://img.shields.io/badge/-Android-84B963?style=flat-square&logo=android&logoColor=white" />
 </p>
 
 **DevOps**
