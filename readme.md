@@ -68,7 +68,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><p>🍰 Everything is RSSible</p></li><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a><p>Simple React Component That Makes Titles More Readable</p></li><li><a href=https://github.com/discordjs/discord.js>discordjs/discord.js</a><p>A powerful JavaScript library for interacting with the Discord API</p></li><li><a href=https://github.com/pmndrs/jotai>pmndrs/jotai</a><p>👻 Primitive and flexible state management for React</p></li><li><a href=https://github.com/jamiebuilds/tailwindcss-animate>jamiebuilds/tailwindcss-animate</a><p>A Tailwind CSS plugin for creating beautiful animations</p></li></ul>
+<ul><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/fz6m/rs-module-lexer>fz6m/rs-module-lexer</a><p>ES module parser powered by Rust</p></li><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a><p>Simple React Component That Makes Titles More Readable</p></li><li><a href=https://github.com/discordjs/discord.js>discordjs/discord.js</a><p>A powerful JavaScript library for interacting with the Discord API</p></li><li><a href=https://github.com/colinhacks/zod>colinhacks/zod</a><p>TypeScript-first schema validation with static type inference</p></li></ul>
 
 **你能找到我吗**
 
@@ -77,4 +77,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/3/23, 2:01 PM<br>下一次刷新：5/3/23, 5:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/3/23, 5:01 PM<br>下一次刷新：5/3/23, 8:01 PM</p>
