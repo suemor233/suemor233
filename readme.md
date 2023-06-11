@@ -68,7 +68,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/unjs/unbuild>unjs/unbuild</a><p>📦 An unified javascript build system</p></li><li><a href=https://github.com/nextui-org/tailwind-variants>nextui-org/tailwind-variants</a><p>🦄 Tailwindcss first-class variant API</p></li><li><a href=https://github.com/contentlayerdev/contentlayer>contentlayerdev/contentlayer</a><p>Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app</p></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><p>🪽 The best on-chain and open-source blogging community for everyone.</p></li><li><a href=https://github.com/fz6m/rs-module-lexer>fz6m/rs-module-lexer</a><p>ES module parser powered by Rust</p></li></ul>
+<ul><li><a href=https://github.com/discordjs/discord.js>discordjs/discord.js</a><p>A powerful JavaScript library for interacting with the Discord API</p></li><li><a href=https://github.com/TanStack/bling>TanStack/bling</a><p>💍 Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.</p></li><li><a href=https://github.com/jshemas/openGraphScraper>jshemas/openGraphScraper</a><p>Node.js scraper service for Open Graph Info and More!</p></li><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a><p>Simple React Component That Makes Titles More Readable</p></li><li><a href=https://github.com/microsoft/TaskMatrix>microsoft/TaskMatrix</a></li></ul>
 
 **你能找到我吗**
 
@@ -77,4 +77,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/11/23, 5:01 AM<br>下一次刷新：6/11/23, 8:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/11/23, 8:02 AM<br>下一次刷新：6/11/23, 11:02 AM</p>
