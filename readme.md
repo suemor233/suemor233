@@ -68,7 +68,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pplulee/appleid_auto>pplulee/appleid_auto</a><p>基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号</p></li><li><a href=https://github.com/vercel-labs/nextgram>vercel-labs/nextgram</a><p>A sample Next.js app showing dynamic routing with modals as a route.</p></li><li><a href=https://github.com/r-spacex/SpaceX-API>r-spacex/SpaceX-API</a><p>:rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.</p></li><li><a href=https://github.com/cure53/DOMPurify>cure53/DOMPurify</a><p>DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:</p></li><li><a href=https://github.com/colinhacks/zod>colinhacks/zod</a><p>TypeScript-first schema validation with static type inference</p></li></ul>
+<ul><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a><p>Simple React Component That Makes Titles More Readable</p></li><li><a href=https://github.com/pnpm/only-allow>pnpm/only-allow</a><p>Force a specific package manager to be used on a project</p></li><li><a href=https://github.com/fz6m/rs-module-lexer>fz6m/rs-module-lexer</a><p>ES module parser powered by Rust</p></li><li><a href=https://github.com/cure53/DOMPurify>cure53/DOMPurify</a><p>DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:</p></li><li><a href=https://github.com/unjs/unbuild>unjs/unbuild</a><p>📦 An unified javascript build system</p></li></ul>
 
 **你能找到我吗**
 
@@ -77,4 +77,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/12/23, 8:01 PM<br>下一次刷新：6/12/23, 11:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/12/23, 11:01 PM<br>下一次刷新：6/13/23, 2:01 AM</p>
