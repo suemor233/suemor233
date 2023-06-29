@@ -68,7 +68,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/contentlayerdev/contentlayer>contentlayerdev/contentlayer</a><p>Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app</p></li><li><a href=https://github.com/cure53/DOMPurify>cure53/DOMPurify</a><p>DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:</p></li><li><a href=https://github.com/pnpm/only-allow>pnpm/only-allow</a><p>Force a specific package manager to be used on a project</p></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><p>🪽 The best on-chain and open-source blogging community for everyone.</p></li><li><a href=https://github.com/web-infra-dev/rspack>web-infra-dev/rspack</a><p>A fast Rust-based web bundler 🦀️</p></li></ul>
+<ul><li><a href=https://github.com/cure53/DOMPurify>cure53/DOMPurify</a><p>DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:</p></li><li><a href=https://github.com/r-spacex/SpaceX-API>r-spacex/SpaceX-API</a><p>:rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.</p></li><li><a href=https://github.com/nextui-org/tailwind-variants>nextui-org/tailwind-variants</a><p>🦄 Tailwindcss first-class variant API</p></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a><p>a better universal ui system</p></li><li><a href=https://github.com/pnpm/only-allow>pnpm/only-allow</a><p>Force a specific package manager to be used on a project</p></li></ul>
 
 **你能找到我吗**
 
@@ -77,4 +77,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁。
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/29/23, 5:01 AM<br>下一次刷新：6/29/23, 8:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/29/23, 8:03 AM<br>下一次刷新：6/29/23, 11:03 AM</p>
