@@ -64,11 +64,11 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁，目前备考中不
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a><p>An opinionated toast component for React.</p></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><p>📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</p></li><li><a href=https://github.com/apitable/apitable>apitable/apitable</a><p>🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.</p></li><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a><p>A very compact representation of a placeholder for an image.</p></li><li><a href=https://github.com/vercel/react-tweet>vercel/react-tweet</a><p>Embed tweets in your React application.</p></li></ul>
+<ul><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a><p>An application written in flutter for watching movies, comics and novels for Android and Windows</p></li><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a><p>An opinionated toast component for React.</p></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><p>📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</p></li><li><a href=https://github.com/apitable/apitable>apitable/apitable</a><p>🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.</p></li><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a><p>A very compact representation of a placeholder for an image.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/petyosi/react-virtuoso>petyosi/react-virtuoso</a><p>The most powerful virtual list component for React</p></li><li><a href=https://github.com/vercel-labs/nextgram>vercel-labs/nextgram</a><p>A sample Next.js app showing dynamic routing with modals as a route.</p></li><li><a href=https://github.com/dcastil/tailwind-merge>dcastil/tailwind-merge</a><p>Merge Tailwind CSS classes without style conflicts</p></li><li><a href=https://github.com/pplulee/appleid_auto>pplulee/appleid_auto</a><p>基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号</p></li><li><a href=https://github.com/contentlayerdev/contentlayer>contentlayerdev/contentlayer</a><p>Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app</p></li></ul>
+<ul><li><a href=https://github.com/TanStack/bling>TanStack/bling</a><p>💍 Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.</p></li><li><a href=https://github.com/contentlayerdev/contentlayer>contentlayerdev/contentlayer</a><p>Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app</p></li><li><a href=https://github.com/colinhacks/zod>colinhacks/zod</a><p>TypeScript-first schema validation with static type inference</p></li><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a><p>The React library to build dashboards fast.</p></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><p>🪽 The best on-chain and open-source blogging community for everyone.</p></li></ul>
 
 **你能找到我吗**
 
@@ -77,4 +77,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁，目前备考中不
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/21/23, 8:01 PM<br>下一次刷新：7/21/23, 11:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/21/23, 11:01 PM<br>下一次刷新：7/22/23, 2:01 AM</p>
