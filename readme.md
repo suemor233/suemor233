@@ -68,7 +68,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁，目前备考中不
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/TanStack/bling>TanStack/bling</a><p>💍 Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.</p></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a><p>The fastest React styling library that just happens to work on native, too.</p></li><li><a href=https://github.com/fz6m/rs-module-lexer>fz6m/rs-module-lexer</a><p>ES module parser powered by Rust</p></li><li><a href=https://github.com/cure53/DOMPurify>cure53/DOMPurify</a><p>DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:</p></li></ul>
+<ul><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a><p>The React library to build dashboards fast.</p></li><li><a href=https://github.com/discordjs/discord.js>discordjs/discord.js</a><p>A powerful JavaScript library for interacting with the Discord API</p></li><li><a href=https://github.com/dcastil/tailwind-merge>dcastil/tailwind-merge</a><p>Merge Tailwind CSS classes without style conflicts</p></li><li><a href=https://github.com/vercel/react-tweet>vercel/react-tweet</a><p>Embed tweets in your React application.</p></li><li><a href=https://github.com/petyosi/react-virtuoso>petyosi/react-virtuoso</a><p>The most powerful virtual list component for React</p></li></ul>
 
 **你能找到我吗**
 
@@ -77,4 +77,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁，目前备考中不
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/3/23, 8:02 AM<br>下一次刷新：9/3/23, 11:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/3/23, 11:01 AM<br>下一次刷新：9/3/23, 2:01 PM</p>
