@@ -68,7 +68,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁，目前备考中不
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a><p>A very compact representation of a placeholder for an image.</p></li><li><a href=https://github.com/fz6m/rs-module-lexer>fz6m/rs-module-lexer</a><p>ES module parser powered by Rust</p></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a><p>Cross platform React style library and UI kit made faster with an optimizing compiler.</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/discordjs/discord.js>discordjs/discord.js</a><p>A powerful JavaScript library for interacting with the Discord API</p></li></ul>
+<ul><li><a href=https://github.com/jshemas/openGraphScraper>jshemas/openGraphScraper</a><p>Node.js scraper service for Open Graph Info and More!</p></li><li><a href=https://github.com/dcastil/tailwind-merge>dcastil/tailwind-merge</a><p>Merge Tailwind CSS classes without style conflicts</p></li><li><a href=https://github.com/moymix/TaskMatrix>moymix/TaskMatrix</a></li><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a><p>Simple React Component That Makes Titles More Readable</p></li><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a><p>A very compact representation of a placeholder for an image.</p></li></ul>
 
 **你能找到我吗**
 
@@ -77,4 +77,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁，目前备考中不
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/10/23, 5:01 PM<br>下一次刷新：11/10/23, 8:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/10/23, 8:01 PM<br>下一次刷新：11/10/23, 11:01 PM</p>
