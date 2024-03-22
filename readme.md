@@ -68,7 +68,7 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁，目前备考中不
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cure53/DOMPurify>cure53/DOMPurify</a><p>DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:</p></li><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a><p>Simple React Component That Makes Titles More Readable</p></li><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a><p>A very compact representation of a placeholder for an image.</p></li><li><a href=https://github.com/r-spacex/SpaceX-API>r-spacex/SpaceX-API</a><p>:rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li></ul>
+<ul><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a><p>A very compact representation of a placeholder for an image.</p></li><li><a href=https://github.com/bvaughn/react-error-boundary>bvaughn/react-error-boundary</a><p>Simple reusable React error boundary component</p></li><li><a href=https://github.com/cure53/DOMPurify>cure53/DOMPurify</a><p>DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:</p></li><li><a href=https://github.com/jshemas/openGraphScraper>jshemas/openGraphScraper</a><p>Node.js scraper service for Open Graph Info and More!</p></li><li><a href=https://github.com/pplulee/appleid_auto>pplulee/appleid_auto</a><p>基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号</p></li></ul>
 
 **你能找到我吗**
 
@@ -77,4 +77,4 @@ Suemor 是一个正在学习前端的萌新，今年 19 岁，目前备考中不
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/22/24, 2:01 PM<br>下一次刷新：3/22/24, 5:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/22/24, 5:01 PM<br>下一次刷新：3/22/24, 8:01 PM</p>
