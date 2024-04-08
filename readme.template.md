@@ -1,6 +1,6 @@
 # Suemor 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Elmge.readme)
 
-Suemor 是一个正在学习前端的萌新，今年 19 岁，目前备考中不定期失踪
+Suemor 是一个正在学习前端的萌新，今年 19 岁
 
 他对于计算机十分感兴趣，正在不断学习，以扩充其知识面，他学习过以下技术:
 
