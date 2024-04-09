@@ -1,7 +1,8 @@
 # Suemor 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Elmge.readme)
 
 Suemor is a 20-year-old beginner learning Front-end development. He desires to become a full stack developer in the future.
-To achieve this goal, he is constantly learning to expand his knowledge, and he has learned the following techniques.
+
+To achieve this goal, he is constantly learning to expand his knowledge, and he has learned the following techniques:
 
 **Web Developer**
 
