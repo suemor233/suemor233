@@ -68,7 +68,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/contentlayerdev/contentlayer>contentlayerdev/contentlayer</a><p>Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app</p></li><li><a href=https://github.com/bvaughn/react-error-boundary>bvaughn/react-error-boundary</a><p>Simple reusable React error boundary component</p></li><li><a href=https://github.com/vercel/react-tweet>vercel/react-tweet</a><p>Embed tweets in your React application.</p></li><li><a href=https://github.com/pplulee/appleid_auto>pplulee/appleid_auto</a><p>基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号</p></li><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><p>🧡 Everything is RSSible</p></li></ul>
+<ul><li><a href=https://github.com/vercel/react-tweet>vercel/react-tweet</a><p>Embed tweets in your React application.</p></li><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><p>🧡 Everything is RSSible</p></li><li><a href=https://github.com/dcastil/tailwind-merge>dcastil/tailwind-merge</a><p>Merge Tailwind CSS classes without style conflicts</p></li><li><a href=https://github.com/cure53/DOMPurify>cure53/DOMPurify</a><p>DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:</p></li><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a><p>An opinionated toast component for React.</p></li></ul>
 
 **Can you fine me?**
 
@@ -77,4 +77,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/31/24, 8:01 PM<br>下一次刷新：5/31/24, 11:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/31/24, 11:01 PM<br>下一次刷新：6/1/24, 2:01 AM</p>
