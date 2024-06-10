@@ -68,7 +68,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/AkaraChen/vscode-open-in-github>AkaraChen/vscode-open-in-github</a></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a><p>Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.</p></li><li><a href=https://github.com/apitable/apitable>apitable/apitable</a><p>🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.</p></li><li><a href=https://github.com/bvaughn/react-error-boundary>bvaughn/react-error-boundary</a><p>Simple reusable React error boundary component</p></li><li><a href=https://github.com/jshemas/openGraphScraper>jshemas/openGraphScraper</a><p>Node.js scraper service for Open Graph Info and More!</p></li></ul>
+<ul><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a><p>Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.</p></li><li><a href=https://github.com/bvaughn/react-error-boundary>bvaughn/react-error-boundary</a><p>Simple reusable React error boundary component</p></li><li><a href=https://github.com/apitable/apitable>apitable/apitable</a><p>🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.</p></li><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a><p>A very compact representation of a placeholder for an image.</p></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a><p>🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.</p></li></ul>
 
 **Can you fine me?**
 
@@ -77,4 +77,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/24, 2:01 PM<br>下一次刷新：6/10/24, 5:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/24, 5:01 PM<br>下一次刷新：6/10/24, 8:01 PM</p>
