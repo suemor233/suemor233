@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/cure53/DOMPurify>cure53/DOMPurify</a><p>DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:</p></li><li><a href=https://github.com/lobehub/lobe-chat>lobehub/lobe-chat</a><p>🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.</p></li><li><a href=https://github.com/yjs/yjs>yjs/yjs</a><p>Shared data types for building collaborative software</p></li><li><a href=https://github.com/TGSAN/CMWTAT_Digital_Edition>TGSAN/CMWTAT_Digital_Edition</a><p>CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！</p></li><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a><p>An opinionated toast component for React.</p></li></ul>
+<ul><li><a href=https://github.com/discordjs/discord.js>discordjs/discord.js</a><p>A powerful JavaScript library for interacting with the Discord API</p></li><li><a href=https://github.com/petyosi/react-virtuoso>petyosi/react-virtuoso</a><p>The most powerful virtual list component for React</p></li><li><a href=https://github.com/cure53/DOMPurify>cure53/DOMPurify</a><p>DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:</p></li><li><a href=https://github.com/unjs/ofetch>unjs/ofetch</a><p>😱 A better fetch API. Works on node, browser and workers.</p></li><li><a href=https://github.com/yjs/yjs>yjs/yjs</a><p>Shared data types for building collaborative software</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/9/24, 11:01 PM<br>下一次刷新：7/10/24, 2:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/10/24, 2:01 AM<br>下一次刷新：7/10/24, 5:01 AM</p>
