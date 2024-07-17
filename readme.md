@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a><p>A very compact representation of a placeholder for an image.</p></li><li><a href=https://github.com/discordjs/discord.js>discordjs/discord.js</a><p>A powerful JavaScript library for interacting with the Discord API</p></li><li><a href=https://github.com/koekeishiya/yabai>koekeishiya/yabai</a><p>A tiling window manager for macOS based on binary space partitioning</p></li><li><a href=https://github.com/amannn/next-intl>amannn/next-intl</a><p>🌐 Internationalization (i18n) for Next.js</p></li><li><a href=https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever>Johnshall/Shadowrocket-ADBlock-Rules-Forever</a><p>提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。</p></li></ul>
+<ul><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a><p>Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</p></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a><p>Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.</p></li><li><a href=https://github.com/unjs/ofetch>unjs/ofetch</a><p>😱 A better fetch API. Works on node, browser and workers.</p></li><li><a href=https://github.com/rxliuli/secure-browse>rxliuli/secure-browse</a><p>Extension Manager for Financial Sites</p></li><li><a href=https://github.com/amannn/next-intl>amannn/next-intl</a><p>🌐 Internationalization (i18n) for Next.js</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/24, 5:01 AM<br>下一次刷新：7/17/24, 8:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/24, 8:03 AM<br>下一次刷新：7/17/24, 11:03 AM</p>
