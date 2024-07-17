@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/r-spacex/SpaceX-API>r-spacex/SpaceX-API</a><p>:rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.</p></li><li><a href=https://github.com/koekeishiya/yabai>koekeishiya/yabai</a><p>A tiling window manager for macOS based on binary space partitioning</p></li><li><a href=https://github.com/rxliuli/secure-browse>rxliuli/secure-browse</a><p>Extension Manager for Financial Sites</p></li><li><a href=https://github.com/petyosi/react-virtuoso>petyosi/react-virtuoso</a><p>The most powerful virtual list component for React</p></li><li><a href=https://github.com/yjs/yjs>yjs/yjs</a><p>Shared data types for building collaborative software</p></li></ul>
+<ul><li><a href=https://github.com/shadcn-ui/ui>shadcn-ui/ui</a><p>Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.</p></li><li><a href=https://github.com/bvaughn/react-error-boundary>bvaughn/react-error-boundary</a><p>Simple reusable React error boundary component</p></li><li><a href=https://github.com/unjs/ofetch>unjs/ofetch</a><p>😱 A better fetch API. Works on node, browser and workers.</p></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a><p>🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.</p></li><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a><p>Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/24, 8:01 PM<br>下一次刷新：7/17/24, 11:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/24, 11:01 PM<br>下一次刷新：7/18/24, 2:01 AM</p>
