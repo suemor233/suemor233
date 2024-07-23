@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a><p>🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.</p></li><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a><p>An opinionated toast component for React.</p></li><li><a href=https://github.com/apitable/apitable>apitable/apitable</a><p>🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.</p></li><li><a href=https://github.com/rxliuli/secure-browse>rxliuli/secure-browse</a><p>Extension Manager for Financial Sites</p></li><li><a href=https://github.com/discordjs/discord.js>discordjs/discord.js</a><p>A powerful JavaScript library for interacting with the Discord API</p></li></ul>
+<ul><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a><p>Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</p></li><li><a href=https://github.com/bvaughn/react-error-boundary>bvaughn/react-error-boundary</a><p>Simple reusable React error boundary component</p></li><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><p>🧡 Everything is RSSible</p></li><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a><p>An opinionated toast component for React.</p></li><li><a href=https://github.com/Innei/jojoo>Innei/jojoo</a><p>A utils and extra react hooks for Jotai v2.</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/23/24, 2:01 PM<br>下一次刷新：7/23/24, 5:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/23/24, 5:01 PM<br>下一次刷新：7/23/24, 8:01 PM</p>
