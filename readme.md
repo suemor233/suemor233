@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/DIYgod/RSSHub>DIYgod/RSSHub</a><p>🧡 Everything is RSSible</p></li><li><a href=https://github.com/bvaughn/react-error-boundary>bvaughn/react-error-boundary</a><p>Simple reusable React error boundary component</p></li><li><a href=https://github.com/vercel/nextgram>vercel/nextgram</a><p>A sample Next.js app showing dynamic routing with modals as a route.</p></li><li><a href=https://github.com/rxliuli/secure-browse>rxliuli/secure-browse</a><p>Extension Manager for Financial Sites</p></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a><p>Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.</p></li></ul>
+<ul><li><a href=https://github.com/unjs/ofetch>unjs/ofetch</a><p>😱 A better fetch API. Works on node, browser and workers.</p></li><li><a href=https://github.com/rxliuli/secure-browse>rxliuli/secure-browse</a><p>Extension Manager for Financial Sites</p></li><li><a href=https://github.com/yjs/yjs>yjs/yjs</a><p>Shared data types for building collaborative software</p></li><li><a href=https://github.com/amannn/next-intl>amannn/next-intl</a><p>🌐 Internationalization (i18n) for Next.js</p></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a><p>🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/5/24, 5:01 PM<br>下一次刷新：8/5/24, 8:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/5/24, 8:01 PM<br>下一次刷新：8/5/24, 11:01 PM</p>
