@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><p>Virtual whiteboard for sketching hand-drawn like diagrams</p></li><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a><p>Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</p></li><li><a href=https://github.com/amannn/next-intl>amannn/next-intl</a><p>🌐 Internationalization (i18n) for Next.js</p></li><li><a href=https://github.com/pmndrs/zustand>pmndrs/zustand</a><p>🐻 Bear necessities for state management in React</p></li><li><a href=https://github.com/shadcn-ui/ui>shadcn-ui/ui</a><p>Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.</p></li></ul>
+<ul><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><p>Virtual whiteboard for sketching hand-drawn like diagrams</p></li><li><a href=https://github.com/amannn/next-intl>amannn/next-intl</a><p>🌐 Internationalization (i18n) for Next.js</p></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a><p>Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.</p></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a><p>🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.</p></li><li><a href=https://github.com/r-spacex/SpaceX-API>r-spacex/SpaceX-API</a><p>:rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/7/24, 5:01 PM<br>下一次刷新：9/7/24, 8:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/7/24, 8:01 PM<br>下一次刷新：9/7/24, 11:01 PM</p>
