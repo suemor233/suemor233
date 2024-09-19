@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever>Johnshall/Shadowrocket-ADBlock-Rules-Forever</a><p>提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。</p></li><li><a href=https://github.com/yjs/yjs>yjs/yjs</a><p>Shared data types for building collaborative software</p></li><li><a href=https://github.com/vercel/ai>vercel/ai</a><p>Build AI-powered applications with React, Svelte, Vue, and Solid</p></li><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a><p>A very compact representation of a placeholder for an image.</p></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><p>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</p></li></ul>
+<ul><li><a href=https://github.com/vercel/react-tweet>vercel/react-tweet</a><p>Embed tweets in your React application.</p></li><li><a href=https://github.com/TGSAN/CMWTAT_Digital_Edition>TGSAN/CMWTAT_Digital_Edition</a><p>CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！</p></li><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a><p>A very compact representation of a placeholder for an image.</p></li><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><p>Virtual whiteboard for sketching hand-drawn like diagrams</p></li><li><a href=https://github.com/open-cli-tools/concurrently>open-cli-tools/concurrently</a><p>Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/19/24, 11:02 AM<br>下一次刷新：9/19/24, 2:02 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/19/24, 2:01 PM<br>下一次刷新：9/19/24, 5:01 PM</p>
