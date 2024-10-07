@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever>Johnshall/Shadowrocket-ADBlock-Rules-Forever</a><p>提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。</p></li><li><a href=https://github.com/koekeishiya/yabai>koekeishiya/yabai</a><p>A tiling window manager for macOS based on binary space partitioning</p></li><li><a href=https://github.com/pmndrs/zustand>pmndrs/zustand</a><p>🐻 Bear necessities for state management in React</p></li><li><a href=https://github.com/yjs/yjs>yjs/yjs</a><p>Shared data types for building collaborative software</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Next generation information browser.</p></li></ul>
+<ul><li><a href=https://github.com/vercel/react-tweet>vercel/react-tweet</a><p>Embed tweets in your React application.</p></li><li><a href=https://github.com/lobehub/lobe-chat>lobehub/lobe-chat</a><p>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.</p></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a><p>🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.</p></li><li><a href=https://github.com/pmndrs/zustand>pmndrs/zustand</a><p>🐻 Bear necessities for state management in React</p></li><li><a href=https://github.com/koekeishiya/yabai>koekeishiya/yabai</a><p>A tiling window manager for macOS based on binary space partitioning</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/8/24, 2:01 AM<br>下一次刷新：10/8/24, 5:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/8/24, 5:01 AM<br>下一次刷新：10/8/24, 8:01 AM</p>
