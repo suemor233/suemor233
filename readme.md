@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><p>Virtual whiteboard for sketching hand-drawn like diagrams</p></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a><p>🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.</p></li><li><a href=https://github.com/open-cli-tools/concurrently>open-cli-tools/concurrently</a><p>Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.</p></li><li><a href=https://github.com/hyoban/eslint-config-hyoban>hyoban/eslint-config-hyoban</a><p>Hyoban's ESLint config preset</p></li><li><a href=https://github.com/shadcn-ui/ui>shadcn-ui/ui</a><p>Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.</p></li></ul>
+<ul><li><a href=https://github.com/Innei/jojoo>Innei/jojoo</a><p>A utils and extra react hooks for Jotai v2.</p></li><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><p>Virtual whiteboard for sketching hand-drawn like diagrams</p></li><li><a href=https://github.com/shadcn-ui/ui>shadcn-ui/ui</a><p>Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.</p></li><li><a href=https://github.com/suemor233/MarchenPlay>suemor233/MarchenPlay</a><p>MarchenPlay 是本地视频的弹幕播放器，使用弹弹play API，拖入动漫即可匹配弹幕</p></li><li><a href=https://github.com/Blinue/Magpie>Blinue/Magpie</a><p>An all-purpose window upscaler for Windows 10/11.</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/21/24, 8:03 AM<br>下一次刷新：10/21/24, 11:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/21/24, 11:08 AM<br>下一次刷新：10/21/24, 2:08 PM</p>
