@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/TGSAN/CMWTAT_Digital_Edition>TGSAN/CMWTAT_Digital_Edition</a><p>CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！</p></li><li><a href=https://github.com/Innei/jojoo>Innei/jojoo</a><p>A utils and extra react hooks for Jotai v2.</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Next generation information browser.</p></li><li><a href=https://github.com/zhw2590582/ArtPlayer>zhw2590582/ArtPlayer</a><p>:art: ArtPlayer.js is a modern and full featured HTML5 video player</p></li><li><a href=https://github.com/drizzle-team/drizzle-orm>drizzle-team/drizzle-orm</a><p>Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅</p></li></ul>
+<ul><li><a href=https://github.com/lobehub/lobe-chat>lobehub/lobe-chat</a><p>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.</p></li><li><a href=https://github.com/Blinue/Magpie>Blinue/Magpie</a><p>An all-purpose window upscaler for Windows 10/11.</p></li><li><a href=https://github.com/xyflow/xyflow>xyflow/xyflow</a><p>React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.</p></li><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a><p>Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</p></li><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><p>Virtual whiteboard for sketching hand-drawn like diagrams</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/31/24, 2:01 AM<br>下一次刷新：10/31/24, 5:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/31/24, 5:01 AM<br>下一次刷新：10/31/24, 8:01 AM</p>
