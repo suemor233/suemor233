@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/egoist/tipc>egoist/tipc</a><p>End-to-end typesafe IPC for Electron</p></li><li><a href=https://github.com/unjs/ofetch>unjs/ofetch</a><p>😱 A better fetch API. Works on node, browser and workers.</p></li><li><a href=https://github.com/vercel/ai>vercel/ai</a><p>Build AI-powered applications with React, Svelte, Vue, and Solid</p></li><li><a href=https://github.com/marchen-dev/MarchenPlay>marchen-dev/MarchenPlay</a><p>MarchenPlay 是本地视频的弹幕播放器，使用弹弹play API，拖入动漫即可匹配弹幕</p></li><li><a href=https://github.com/adobe/react-spectrum>adobe/react-spectrum</a><p>A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.</p></li></ul>
+<ul><li><a href=https://github.com/drizzle-team/drizzle-orm>drizzle-team/drizzle-orm</a><p>Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅</p></li><li><a href=https://github.com/marchen-dev/MarchenPlay>marchen-dev/MarchenPlay</a><p>MarchenPlay 是本地视频的弹幕播放器，使用弹弹play API，拖入动漫即可匹配弹幕</p></li><li><a href=https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever>Johnshall/Shadowrocket-ADBlock-Rules-Forever</a><p>提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。</p></li><li><a href=https://github.com/vercel/ai>vercel/ai</a><p>Build AI-powered applications with React, Svelte, Vue, and Solid</p></li><li><a href=https://github.com/amannn/next-intl>amannn/next-intl</a><p>🌐 Internationalization (i18n) for Next.js</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/14/24, 8:03 AM<br>下一次刷新：11/14/24, 11:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/14/24, 11:04 AM<br>下一次刷新：11/14/24, 2:04 PM</p>
