@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/zhw2590582/ArtPlayer>zhw2590582/ArtPlayer</a><p>:art: ArtPlayer.js is a modern and full featured HTML5 video player</p></li><li><a href=https://github.com/Blinue/Magpie>Blinue/Magpie</a><p>An all-purpose window upscaler for Windows 10/11.</p></li><li><a href=https://github.com/adobe/react-spectrum>adobe/react-spectrum</a><p>A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.</p></li><li><a href=https://github.com/antfu/changelogithub>antfu/changelogithub</a><p>Generate changelog for GitHub</p></li><li><a href=https://github.com/hyoban/eslint-config-hyoban>hyoban/eslint-config-hyoban</a><p>Hyoban's ESLint config preset</p></li></ul>
+<ul><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a><p>Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</p></li><li><a href=https://github.com/antfu/changelogithub>antfu/changelogithub</a><p>Generate changelog for GitHub</p></li><li><a href=https://github.com/rxliuli/secure-browse>rxliuli/secure-browse</a><p>Extension Manager for Financial Sites</p></li><li><a href=https://github.com/kangfenmao/cherry-studio>kangfenmao/cherry-studio</a><p>🍒 Cherry Studio is a desktop client that supports for multiple LLM providers</p></li><li><a href=https://github.com/lobehub/lobe-chat>lobehub/lobe-chat</a><p>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/19/24, 5:01 PM<br>下一次刷新：11/19/24, 8:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/19/24, 8:01 PM<br>下一次刷新：11/19/24, 11:01 PM</p>
