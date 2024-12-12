@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Innei/jojoo>Innei/jojoo</a><p>A utils and extra react hooks for Jotai v2.</p></li><li><a href=https://github.com/zhw2590582/ArtPlayer>zhw2590582/ArtPlayer</a><p>:art: ArtPlayer.js is a modern and full featured HTML5 video player</p></li><li><a href=https://github.com/dexie/Dexie.js>dexie/Dexie.js</a><p>A Minimalistic Wrapper for IndexedDB</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><p>Virtual whiteboard for sketching hand-drawn like diagrams</p></li></ul>
+<ul><li><a href=https://github.com/lobehub/lobe-chat>lobehub/lobe-chat</a><p>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</p></li><li><a href=https://github.com/egoist/tipc>egoist/tipc</a><p>End-to-end typesafe IPC for Electron</p></li><li><a href=https://github.com/antfu/changelogithub>antfu/changelogithub</a><p>Generate changelog for GitHub</p></li><li><a href=https://github.com/Innei/jojoo>Innei/jojoo</a><p>A utils and extra react hooks for Jotai v2.</p></li><li><a href=https://github.com/dexie/Dexie.js>dexie/Dexie.js</a><p>A Minimalistic Wrapper for IndexedDB</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/12/24, 5:01 AM<br>下一次刷新：12/12/24, 8:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/12/24, 8:03 AM<br>下一次刷新：12/12/24, 11:03 AM</p>
