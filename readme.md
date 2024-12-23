@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/vercel/ai>vercel/ai</a><p>Build AI-powered applications with React, Svelte, Vue, and Solid</p></li><li><a href=https://github.com/dexie/Dexie.js>dexie/Dexie.js</a><p>A Minimalistic Wrapper for IndexedDB</p></li><li><a href=https://github.com/open-cli-tools/concurrently>open-cli-tools/concurrently</a><p>Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.</p></li><li><a href=https://github.com/xyflow/xyflow>xyflow/xyflow</a><p>React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.</p></li><li><a href=https://github.com/egoist/tipc>egoist/tipc</a><p>End-to-end typesafe IPC for Electron</p></li></ul>
+<ul><li><a href=https://github.com/Blinue/Magpie>Blinue/Magpie</a><p>An all-purpose window upscaler for Windows 10/11.</p></li><li><a href=https://github.com/pmndrs/zustand>pmndrs/zustand</a><p>🐻 Bear necessities for state management in React</p></li><li><a href=https://github.com/vercel/satori>vercel/satori</a><p>Enlightened library to convert HTML and CSS to SVG</p></li><li><a href=https://github.com/hyoban/eslint-config-hyoban>hyoban/eslint-config-hyoban</a><p>Hyoban's ESLint config preset</p></li><li><a href=https://github.com/adobe/react-spectrum>adobe/react-spectrum</a><p>A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/23/24, 5:01 PM<br>下一次刷新：12/23/24, 8:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/23/24, 8:01 PM<br>下一次刷新：12/23/24, 11:01 PM</p>
