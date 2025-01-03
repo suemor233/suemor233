@@ -1,4 +1,4 @@
-# Suemor 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Elmge.readme)
+# Suemor 🧑🏻‍💻  [![wakatime](https://wakatime.com/badge/user/00a6ccbb-2fda-4701-9e6c-14311177d4c7.svg)](https://wakatime.com/@00a6ccbb-2fda-4701-9e6c-14311177d4c7)
 
 Suemor is a 20-year-old beginner in Front-end web development. He aspires to become a full-stack developer in the future.
 
@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/dexie/Dexie.js>dexie/Dexie.js</a><p>A Minimalistic Wrapper for IndexedDB</p></li><li><a href=https://github.com/CherryHQ/cherry-studio>CherryHQ/cherry-studio</a><p>🍒 Cherry Studio is a desktop client that supports for multiple LLM providers</p></li><li><a href=https://github.com/shadcn-ui/ui>shadcn-ui/ui</a><p>Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.</p></li><li><a href=https://github.com/antfu/changelogithub>antfu/changelogithub</a><p>Generate changelog for GitHub</p></li><li><a href=https://github.com/community-scripts/ProxmoxVE>community-scripts/ProxmoxVE</a><p>Proxmox VE Helper-Scripts (Community Edition)</p></li></ul>
+<ul><li><a href=https://github.com/rxliuli/secure-browse>rxliuli/secure-browse</a><p>Extension Manager for Financial Sites</p></li><li><a href=https://github.com/shadcn-ui/ui>shadcn-ui/ui</a><p>Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.</p></li><li><a href=https://github.com/marchen-dev/marchen-player>marchen-dev/marchen-player</a><p>Marchen 是本地视频的弹幕播放器，使用弹弹play API，拖入动漫即可匹配弹幕</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li><li><a href=https://github.com/pmndrs/zustand>pmndrs/zustand</a><p>🐻 Bear necessities for state management in React</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/3/25, 5:01 PM<br>下一次刷新：1/3/25, 8:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/3/25, 8:00 PM<br>下一次刷新：1/3/25, 11:00 PM</p>
