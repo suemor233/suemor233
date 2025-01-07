@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Blinue/Magpie>Blinue/Magpie</a><p>An all-purpose window upscaler for Windows 10/11.</p></li><li><a href=https://github.com/AlistGo/alist-web>AlistGo/alist-web</a><p>🗂️ The front end of Alist V3 (A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs)</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li><li><a href=https://github.com/community-scripts/ProxmoxVE>community-scripts/ProxmoxVE</a><p>Proxmox VE Helper-Scripts (Community Edition)</p></li><li><a href=https://github.com/callstack/react-native-paper>callstack/react-native-paper</a><p>Material Design for React Native (Android & iOS)</p></li></ul>
+<ul><li><a href=https://github.com/xyflow/xyflow>xyflow/xyflow</a><p>React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.</p></li><li><a href=https://github.com/AlistGo/alist-web>AlistGo/alist-web</a><p>🗂️ The front end of Alist V3 (A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs)</p></li><li><a href=https://github.com/vercel/satori>vercel/satori</a><p>Enlightened library to convert HTML and CSS to SVG</p></li><li><a href=https://github.com/lobehub/lobe-chat>lobehub/lobe-chat</a><p>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</p></li><li><a href=https://github.com/vercel/ai>vercel/ai</a><p>Build AI-powered applications with React, Svelte, Vue, and Solid</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/7/25, 11:06 AM<br>下一次刷新：1/7/25, 2:06 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/7/25, 2:01 PM<br>下一次刷新：1/7/25, 5:01 PM</p>
