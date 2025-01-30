@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/hyoban/eslint-config-hyoban>hyoban/eslint-config-hyoban</a><p>Hyoban's ESLint config preset</p></li><li><a href=https://github.com/lobehub/lobe-chat>lobehub/lobe-chat</a><p>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</p></li><li><a href=https://github.com/community-scripts/ProxmoxVE>community-scripts/ProxmoxVE</a><p>Proxmox VE Helper-Scripts (Community Edition)</p></li><li><a href=https://github.com/shadcn-ui/ui>shadcn-ui/ui</a><p>Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.</p></li><li><a href=https://github.com/RSSNext/follow.is>RSSNext/follow.is</a><p>Follow official website</p></li></ul>
+<ul><li><a href=https://github.com/vercel/ai>vercel/ai</a><p>Build AI-powered applications with React, Svelte, Vue, and Solid</p></li><li><a href=https://github.com/rxliuli/secure-browse>rxliuli/secure-browse</a><p>Extension Manager for Financial Sites</p></li><li><a href=https://github.com/zhw2590582/ArtPlayer>zhw2590582/ArtPlayer</a><p>:art: ArtPlayer.js is a modern and full featured HTML5 video player</p></li><li><a href=https://github.com/adobe/react-spectrum>adobe/react-spectrum</a><p>A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.</p></li><li><a href=https://github.com/hyoban/eslint-config-hyoban>hyoban/eslint-config-hyoban</a><p>Hyoban's ESLint config preset</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/30/25, 2:01 PM<br>下一次刷新：1/30/25, 5:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/30/25, 5:01 PM<br>下一次刷新：1/30/25, 8:01 PM</p>
