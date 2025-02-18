@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/xyflow/xyflow>xyflow/xyflow</a><p>React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.</p></li><li><a href=https://github.com/lobehub/lobe-chat>lobehub/lobe-chat</a><p>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</p></li><li><a href=https://github.com/dexie/Dexie.js>dexie/Dexie.js</a><p>A Minimalistic Wrapper for IndexedDB</p></li><li><a href=https://github.com/hyoban/eslint-config-hyoban>hyoban/eslint-config-hyoban</a><p>Hyoban's ESLint config preset</p></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><p>🧡 Follow your favorites in one inbox</p></li></ul>
+<ul><li><a href=https://github.com/open-cli-tools/concurrently>open-cli-tools/concurrently</a><p>Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.</p></li><li><a href=https://github.com/callstack/react-native-paper>callstack/react-native-paper</a><p>Material Design for React Native (Android & iOS)</p></li><li><a href=https://github.com/xyflow/xyflow>xyflow/xyflow</a><p>React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.</p></li><li><a href=https://github.com/community-scripts/ProxmoxVE>community-scripts/ProxmoxVE</a><p>Proxmox VE Helper-Scripts (Community Edition)</p></li><li><a href=https://github.com/zhw2590582/ArtPlayer>zhw2590582/ArtPlayer</a><p>:art: ArtPlayer.js is a modern and full featured HTML5 video player</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/18/25, 11:03 AM<br>下一次刷新：2/18/25, 2:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/18/25, 2:01 PM<br>下一次刷新：2/18/25, 5:01 PM</p>
