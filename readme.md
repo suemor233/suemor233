@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/drizzle-team/drizzle-orm>drizzle-team/drizzle-orm</a><p>Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅</p></li><li><a href=https://github.com/excalidraw/excalidraw>excalidraw/excalidraw</a><p>Virtual whiteboard for sketching hand-drawn like diagrams</p></li><li><a href=https://github.com/open-cli-tools/concurrently>open-cli-tools/concurrently</a><p>Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.</p></li><li><a href=https://github.com/RSSNext/follow.is>RSSNext/follow.is</a><p>Follow official website</p></li><li><a href=https://github.com/lobehub/lobe-chat>lobehub/lobe-chat</a><p>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.</p></li></ul>
+<ul><li><a href=https://github.com/adobe/react-spectrum>adobe/react-spectrum</a><p>A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.</p></li><li><a href=https://github.com/CherryHQ/cherry-studio>CherryHQ/cherry-studio</a><p>🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1</p></li><li><a href=https://github.com/shadcn-ui/ui>shadcn-ui/ui</a><p>A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.</p></li><li><a href=https://github.com/vercel/satori>vercel/satori</a><p>Enlightened library to convert HTML and CSS to SVG</p></li><li><a href=https://github.com/vercel/ai>vercel/ai</a><p>Build AI-powered applications with React, Svelte, Vue, and Solid</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/3/25, 5:01 AM<br>下一次刷新：3/3/25, 8:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/3/25, 8:03 AM<br>下一次刷新：3/3/25, 11:03 AM</p>
