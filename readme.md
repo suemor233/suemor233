@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/adobe/react-spectrum>adobe/react-spectrum</a><p>A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.</p></li><li><a href=https://github.com/community-scripts/ProxmoxVE>community-scripts/ProxmoxVE</a><p>Proxmox VE Helper-Scripts (Community Edition)</p></li><li><a href=https://github.com/Innei/nestjs-pretty-logger>Innei/nestjs-pretty-logger</a><p>🌟 Elevate NestJS logging with stylish, file-redirected, and real-time capable logging based on consola. Compact, powerful, and easy to integrate.</p></li><li><a href=https://github.com/grtsinry43/grtblog>grtsinry43/grtblog</a><p>基于Reactjs与SpringBoot，前后端分离，支持服务端与静态生成混合模式，有丰富自定义，支持部分重载与主题更换的综合型博客系统（内容管理系统）</p></li><li><a href=https://github.com/RSSNext/follow.is>RSSNext/follow.is</a><p>Folo official website</p></li></ul>
+<ul><li><a href=https://github.com/vercel/satori>vercel/satori</a><p>Enlightened library to convert HTML and CSS to SVG</p></li><li><a href=https://github.com/spiritLHLS/ecs>spiritLHLS/ecs</a><p>VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)</p></li><li><a href=https://github.com/jabbany/CommentCoreLibrary>jabbany/CommentCoreLibrary</a><p>Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。</p></li><li><a href=https://github.com/AlistGo/alist-web>AlistGo/alist-web</a><p>🗂️ The front end of Alist V3 (A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs)</p></li><li><a href=https://github.com/CherryHQ/cherry-studio>CherryHQ/cherry-studio</a><p>🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/29/25, 5:01 AM<br>下一次刷新：3/29/25, 8:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/29/25, 8:03 AM<br>下一次刷新：3/29/25, 11:03 AM</p>
