@@ -1,6 +1,6 @@
 # Suemor 🧑🏻‍💻  [![wakatime](https://wakatime.com/badge/user/00a6ccbb-2fda-4701-9e6c-14311177d4c7.svg)](https://wakatime.com/@00a6ccbb-2fda-4701-9e6c-14311177d4c7)
 
-Suemor is a 20-year-old beginner in Front-end web development. He aspires to become a full-stack developer in the future.
+Suemor is a 21-year-old beginner in Front-end web development. He aspires to become a full-stack developer in the future.
 
 To achieve this goal, he is constantly expanding his knowledge through learning, having already mastered several techniques:
 
@@ -58,7 +58,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/mx-space/mx-admin target=_blank><b>mx-space/mx-admin</b></a> <a href=https://22333322.xyz/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/mx-admin?style=flat-square&labelColor=343b41"></td><td>3/22/2021</td><td>3/31/2025</td></tr><tr><td><a href=https://github.com/suemor233/LostAndFound-weapp target=_blank><b>suemor233/LostAndFound-weapp</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/LostAndFound-weapp?style=flat-square&labelColor=343b41"></td><td>8/24/2022</td><td>2/28/2023</td></tr><tr><td><a href=https://github.com/Crossbell-Box/xLog target=_blank><b>Crossbell-Box/xLog</b></a> <a href=https://xlog.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Crossbell-Box/xLog?style=flat-square&labelColor=343b41"></td><td>6/21/2022</td><td>2/22/2025</td></tr><tr><td><a href=https://github.com/mx-space/kami target=_blank><b>mx-space/kami</b></a> <a href=https://kami.innei.ren target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/kami?style=flat-square&labelColor=343b41"></td><td>4/13/2020</td><td>3/28/2025</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Crossbell-Box/xLog target=_blank><b>Crossbell-Box/xLog</b></a> <a href=https://xlog.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Crossbell-Box/xLog?style=flat-square&labelColor=343b41"></td><td>6/21/2022</td><td>2/22/2025</td></tr><tr><td><a href=https://github.com/mx-space/mx-admin target=_blank><b>mx-space/mx-admin</b></a> <a href=https://22333322.xyz/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/mx-admin?style=flat-square&labelColor=343b41"></td><td>3/22/2021</td><td>3/31/2025</td></tr><tr><td><a href=https://github.com/suemor233/LostAndFound-weapp target=_blank><b>suemor233/LostAndFound-weapp</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/suemor233/LostAndFound-weapp?style=flat-square&labelColor=343b41"></td><td>8/24/2022</td><td>2/28/2023</td></tr><tr><td><a href=https://github.com/mx-space/kami target=_blank><b>mx-space/kami</b></a> <a href=https://kami.innei.ren target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mx-space/kami?style=flat-square&labelColor=343b41"></td><td>4/13/2020</td><td>3/28/2025</td></tr></tbody></table>
 
 **Recent Writing...**
 
@@ -66,7 +66,7 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/vercel/satori>vercel/satori</a><p>Enlightened library to convert HTML and CSS to SVG</p></li><li><a href=https://github.com/spiritLHLS/ecs>spiritLHLS/ecs</a><p>VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)</p></li><li><a href=https://github.com/community-scripts/ProxmoxVE>community-scripts/ProxmoxVE</a><p>Proxmox VE Helper-Scripts (Community Edition)</p></li><li><a href=https://github.com/CherryHQ/cherry-studio>CherryHQ/cherry-studio</a><p>🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li></ul>
+<ul><li><a href=https://github.com/Blinue/Magpie>Blinue/Magpie</a><p>An all-purpose window upscaler for Windows 10/11.</p></li><li><a href=https://github.com/hihkm/DanmakuFactory>hihkm/DanmakuFactory</a><p>支持特殊弹幕的xml转ass格式转换工具</p></li><li><a href=https://github.com/RSSNext/follow.is>RSSNext/follow.is</a><p>Folo official website</p></li><li><a href=https://github.com/Innei/linear>Innei/linear</a><p>A more user-friendly GitHub notification management tool (WIP)</p></li><li><a href=https://github.com/vercel/ai>vercel/ai</a><p>The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents</p></li></ul>
 
 **Can you fine me?**
 
@@ -75,4 +75,4 @@ To achieve this goal, he is constantly expanding his knowledge through learning,
 ---
 
 <!-- motto -->
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/1/25, 8:01 PM<br>下一次刷新：4/1/25, 11:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/1/25, 9:46 PM<br>下一次刷新：4/2/25, 12:46 AM</p>
