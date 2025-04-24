@@ -7,6 +7,7 @@
 ## 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,ts,electron,tailwindcss,nestjs,mongodb,rollup,git,vim)](https://skillicons.dev)
 
+## 📊 Coding Activity
 <!--START_SECTION:waka-->
 
 ```txt
