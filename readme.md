@@ -1,10 +1,10 @@
-## Suemor 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/00a6ccbb-2fda-4701-9e6c-14311177d4c7.svg)](https://wakatime.com/@00a6ccbb-2fda-4701-9e6c-14311177d4c7)
+## 🧑🏻‍💻 Suemor [![wakatime](https://wakatime.com/badge/user/00a6ccbb-2fda-4701-9e6c-14311177d4c7.svg)](https://wakatime.com/@00a6ccbb-2fda-4701-9e6c-14311177d4c7)
 
 - 🧑🏻‍💻 I am a front-end developer and a college student
 - ❤️ Passionate about open source, clean code, and creating great user experiences
 - 👀 Strong self-learning ability, always eager to explore new technologies and tackle challenging projects
 
-### Weekly Summary
+### 📊 Weekly Summary
 <!--START_SECTION:waka-->
 
 ```txt
@@ -19,11 +19,11 @@ TSConfig         28 mins         ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### Tech Stack
+### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,ts,electron,tailwindcss,nestjs,mongodb,rollup,git,vim)](https://skillicons.dev)
 
 
-### Find me
+### 🌐 Find me
 
 <p>
   <a href="https://github.com/suemor233" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
