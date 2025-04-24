@@ -4,12 +4,10 @@
 - ❤️ Passionate about open source, clean code, and creating great user experiences
 - 👀 Strong self-learning ability, always eager to explore new technologies and tackle challenging projects
 
-## 📊 Coding Activity
+## 📊 Weekly Summary
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2025 - To: 23 April 2025
-
 Total Time: 34 hrs 25 mins
 
 TypeScript       26 hrs 36 mins  ███████████████████▒░░░░░   76.97 %
@@ -21,7 +19,7 @@ TSConfig         28 mins         ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## 🛠️ My Skills
+## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,ts,electron,tailwindcss,nestjs,mongodb,rollup,git,vim)](https://skillicons.dev)
 
 
