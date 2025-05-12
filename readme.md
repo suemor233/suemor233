@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 I am a front-end developer and a college student
 - ❤️ Passionate about open source, clean code, and creating great user experiences
-- 👀 Strong self-learning ability, always eager to explore new technologies and tackle challenging projects
+- 👀 Currently seeking a summer internship. You're welcome to view [my resume](https://resume.suemor.com)
 
 ### 📊 Weekly Summary
 <!--START_SECTION:waka-->
