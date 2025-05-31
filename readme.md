@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 I am a front-end developer and a college student
 - ❤️ Passionate about open source, clean code, and creating great user experiences
-- 👀 I'll be building some interesting toys at @marchen-dev
+- 👀 I'll be building some interesting toys at [marchen-dev](https://github.com/marchen-dev)
 
 ### 📊 Weekly summary
 <!--START_SECTION:waka-->
