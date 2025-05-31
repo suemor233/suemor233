@@ -2,9 +2,9 @@
 
 - 🧑🏻‍💻 I am a front-end developer and a college student
 - ❤️ Passionate about open source, clean code, and creating great user experiences
-- 👀 Currently seeking a summer internship. You're welcome to view [my resume](https://resume.suemor.com)
+- 👀 I'll be building some interesting toys at @marchen-dev
 
-### 📊 Weekly Summary
+### 📊 Weekly summary
 <!--START_SECTION:waka-->
 
 ```txt
@@ -19,7 +19,7 @@ CSS                  25 mins         ▓░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### 🛠️ Tech Stack
+### 🛠️ Tech stack
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,ts,electron,tailwindcss,nestjs,mongodb,rollup,git,vim)](https://skillicons.dev)
 
 
