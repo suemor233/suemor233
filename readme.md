@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 hrs 47 mins
+Total Time: 26 hrs 50 mins
 
-Vue.js               16 hrs 12 mins  ██████████████████▒░░░░░░   73.81 %
-TypeScript           3 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
-JSON                 1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-CSS                  29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Kotlin               20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Vue.js               20 hrs 1 min    ██████████████████▓░░░░░░   74.33 %
+TypeScript           4 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
+JSON                 1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+CSS                  22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Kotlin               20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
