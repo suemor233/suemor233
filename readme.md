@@ -1,7 +1,7 @@
 ## Suemor 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/00a6ccbb-2fda-4701-9e6c-14311177d4c7.svg)](https://wakatime.com/@00a6ccbb-2fda-4701-9e6c-14311177d4c7)
 
-- 🧑🏻‍💻 I am a front-end developer and a college student
-- ❤️ Passionate about open source, clean code, and creating great user experiences
+- 🧑🏻‍💻 Front-end developer working with AI agents
+- ❤️ Into open source, AI coding, and building useful things
 - 👀 I'll be building some interesting toys at [marchen-dev](https://github.com/marchen-dev)
 
 ### 📊 Weekly summary
