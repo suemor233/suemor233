@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 hrs 59 mins
-AI Coding    17 hrs 2 mins         ██████████████████████▒░░   89.70 %
+Total Time: 16 hrs 28 mins
+AI Coding    14 hrs 49 mins        ██████████████████████▓░░   90.03 %
 
-Markdown     9 hrs 55 mins         █████████████░░░░░░░░░░░░   52.21 %
-TypeScript   4 hrs 24 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
-Other        1 hr 49 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-JavaScript   49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-YAML         36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Markdown     8 hrs 45 mins         █████████████▒░░░░░░░░░░░   53.13 %
+TypeScript   4 hrs 13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
+Other        1 hr 36 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+Text         46 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+TOML         20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
