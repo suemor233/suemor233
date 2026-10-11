@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 hrs 6 mins
-AI Coding    26 hrs 36 mins        ███████████████████████▓░   94.70 %
+Total Time: 29 hrs 34 mins
+AI Coding    27 hrs 45 mins        ███████████████████████▒░   93.88 %
 
-Markdown     13 hrs 42 mins        ████████████▒░░░░░░░░░░░░   48.76 %
-Other        6 hrs 2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-TypeScript   3 hrs 1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-JSON         1 hr 32 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Vue          1 hr 16 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Markdown     12 hrs 23 mins        ██████████▒░░░░░░░░░░░░░░   41.89 %
+Other        8 hrs 2 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
+TypeScript   2 hrs 18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+JSON         2 hrs                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+JavaScript   1 hr 40 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
 ```
 
 <!--END_SECTION:waka-->
